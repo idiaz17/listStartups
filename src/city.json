@@ -1,0 +1,4301 @@
+{"city": {
+    "selvpx7coEylQPDKD": {
+        "id": "selvpx7coEylQPDKD",
+        "name": "Sakarya",
+        "color": "teal"
+    },
+    "selbEs6ek9j8bdV91": {
+        "id": "selbEs6ek9j8bdV91",
+        "name": "Orléans",
+        "color": "grayMedium"
+    },
+    "sel1OC3Jt3l6Ci2GK": {
+        "id": "sel1OC3Jt3l6Ci2GK",
+        "name": "Yokohama",
+        "color": "purpleDark"
+    },
+    "selcLQzV9p56j57BK": {
+        "id": "selcLQzV9p56j57BK",
+        "name": "Seongnam-si ",
+        "color": "redDark"
+    },
+    "selWpSbxxn0ebXakO": {
+        "id": "selWpSbxxn0ebXakO",
+        "name": "Algiers",
+        "color": "redDark"
+    },
+    "selTYOxUXprXrdWHJ": {
+        "id": "selTYOxUXprXrdWHJ",
+        "name": "Biskra",
+        "color": "yellowDarker"
+    },
+    "selZaNd7rvdOSu45n": {
+        "id": "selZaNd7rvdOSu45n",
+        "name": "Lille",
+        "color": "tealMedium"
+    },
+    "selrMixMhZuz1qEK3": {
+        "id": "selrMixMhZuz1qEK3",
+        "name": "Bernex",
+        "color": "orangeMedium"
+    },
+    "selcv5plt15laDpTo": {
+        "id": "selcv5plt15laDpTo",
+        "name": "Montréal",
+        "color": "purple"
+    },
+    "selAbLSrVZm7porfd": {
+        "id": "selAbLSrVZm7porfd",
+        "name": "LE COUDRAY",
+        "color": "redDarker"
+    },
+    "selKMYgqz3lGFOuB0": {
+        "id": "selKMYgqz3lGFOuB0",
+        "name": "Paris ",
+        "color": "purple"
+    },
+    "selQJpaNHbOKyGE1D": {
+        "id": "selQJpaNHbOKyGE1D",
+        "name": "BLOIS",
+        "color": "gray"
+    },
+    "seljf0A6r6vBbptui": {
+        "id": "seljf0A6r6vBbptui",
+        "name": "Eschborn",
+        "color": "gray"
+    },
+    "selg6sHpmSu47pWlF": {
+        "id": "selg6sHpmSu47pWlF",
+        "name": "Bourges",
+        "color": "orangeMedium"
+    },
+    "selNKDpMH3WJkaO3Q": {
+        "id": "selNKDpMH3WJkaO3Q",
+        "name": "#505, 315, Hwangsaeul-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea",
+        "color": "cyanDarker"
+    },
+    "selLBiLPUFhQoFtpi": {
+        "id": "selLBiLPUFhQoFtpi",
+        "name": "Chateaudun",
+        "color": "purpleDarker"
+    },
+    "selqU5AVCa83qhoNB": {
+        "id": "selqU5AVCa83qhoNB",
+        "name": "Lyon",
+        "color": "pinkDark"
+    },
+    "selFRKgtobBg0ZV8Y": {
+        "id": "selFRKgtobBg0ZV8Y",
+        "name": "Jacou",
+        "color": "blueDarker"
+    },
+    "selThIOfYB7dbgCVB": {
+        "id": "selThIOfYB7dbgCVB",
+        "name": "Courbevoie ",
+        "color": "cyanMedium"
+    },
+    "seleA2nedr286RoE7": {
+        "id": "seleA2nedr286RoE7",
+        "name": "Zurich",
+        "color": "redDarker"
+    },
+    "selT1Fp3vIdAeIkmu": {
+        "id": "selT1Fp3vIdAeIkmu",
+        "name": "Le Controis en Sologne",
+        "color": "tealDarker"
+    },
+    "selwuS7hOikss9Td4": {
+        "id": "selwuS7hOikss9Td4",
+        "name": "Ness Ziona",
+        "color": "gray"
+    },
+    "selxNybhbw2Kwc0uO": {
+        "id": "selxNybhbw2Kwc0uO",
+        "name": "16 Rue Sidi M'Barek, El Achour, Algiers",
+        "color": "cyanDark"
+    },
+    "selVZA2DdozRIcnvc": {
+        "id": "selVZA2DdozRIcnvc",
+        "name": "Anyang-si",
+        "color": "pinkDark"
+    },
+    "selujsNK0ZMdSS6AV": {
+        "id": "selujsNK0ZMdSS6AV",
+        "name": "LABEGE",
+        "color": "pinkMedium"
+    },
+    "sel8Kdk4he3he1vkO": {
+        "id": "sel8Kdk4he3he1vkO",
+        "name": "The Hague",
+        "color": "purpleDarker"
+    },
+    "sel6Yv7hFK5Ld3S8G": {
+        "id": "sel6Yv7hFK5Ld3S8G",
+        "name": "Zwolle",
+        "color": "blue"
+    },
+    "sel02ZIvvbXejx3Zt": {
+        "id": "sel02ZIvvbXejx3Zt",
+        "name": "Grenoble",
+        "color": "cyanMedium"
+    },
+    "sel2vQqF4YJhai2Z6": {
+        "id": "sel2vQqF4YJhai2Z6",
+        "name": "CANDES-SAINT-MARTIN",
+        "color": "grayDarker"
+    },
+    "selZ4KsBHGV1usjMv": {
+        "id": "selZ4KsBHGV1usjMv",
+        "name": "TOULOUSE",
+        "color": "tealDark"
+    },
+    "selpMLhjtS4khbwkq": {
+        "id": "selpMLhjtS4khbwkq",
+        "name": "Taipei City",
+        "color": "tealDark"
+    },
+    "selAcqYQBX8FOhO7y": {
+        "id": "selAcqYQBX8FOhO7y",
+        "name": "Tiaret",
+        "color": "grayDark"
+    },
+    "selIqvcVDkE5BWJjB": {
+        "id": "selIqvcVDkE5BWJjB",
+        "name": "Loos",
+        "color": "blueDark"
+    },
+    "sel9V8Aw27ge3El8V": {
+        "id": "sel9V8Aw27ge3El8V",
+        "name": "MATOURY",
+        "color": "cyanDark"
+    },
+    "selpTH7FiEsxSHb4f": {
+        "id": "selpTH7FiEsxSHb4f",
+        "name": "Seoul",
+        "color": "red"
+    },
+    "sela4Iqx6yLn5PUI8": {
+        "id": "sela4Iqx6yLn5PUI8",
+        "name": "Tours",
+        "color": "grayMedium"
+    },
+    "selCiwKzKeRk9mNLA": {
+        "id": "selCiwKzKeRk9mNLA",
+        "name": "Montreuil",
+        "color": "cyanDarker"
+    },
+    "selakyVqW0cAuQxHv": {
+        "id": "selakyVqW0cAuQxHv",
+        "name": "Luxembourg",
+        "color": "greenDarker"
+    },
+    "seloPnC4Md12SYhc0": {
+        "id": "seloPnC4Md12SYhc0",
+        "name": "AURIOL",
+        "color": "purple"
+    },
+    "selknixig9319S8Rb": {
+        "id": "selknixig9319S8Rb",
+        "name": "Deajeon",
+        "color": "purpleDarker"
+    },
+    "selH8xd7b7qbQrj0I": {
+        "id": "selH8xd7b7qbQrj0I",
+        "name": "Toulouse",
+        "color": "pinkMedium"
+    },
+    "selA8tajVnImtqqKo": {
+        "id": "selA8tajVnImtqqKo",
+        "name": "Taichung",
+        "color": "orangeDark"
+    },
+    "selObmEwJo1aT4H0M": {
+        "id": "selObmEwJo1aT4H0M",
+        "name": "İstanbul",
+        "color": "pink"
+    },
+    "selwUMNndy34dkQBk": {
+        "id": "selwUMNndy34dkQBk",
+        "name": "Istanbul",
+        "color": "orange"
+    },
+    "selstRrlA788ALlmU": {
+        "id": "selstRrlA788ALlmU",
+        "name": "New York",
+        "color": "purple"
+    },
+    "sel4tNkZPueVAqse7": {
+        "id": "sel4tNkZPueVAqse7",
+        "name": "PARIS",
+        "color": "red"
+    },
+    "selWNXlQD42pXkQFq": {
+        "id": "selWNXlQD42pXkQFq",
+        "name": "Setif",
+        "color": "orangeDark"
+    },
+    "seljLWSsN82Gi8x64": {
+        "id": "seljLWSsN82Gi8x64",
+        "name": "alger",
+        "color": "pinkDark"
+    },
+    "selv1mw4XZ2ClfAYP": {
+        "id": "selv1mw4XZ2ClfAYP",
+        "name": "Alger",
+        "color": "pinkDark"
+    },
+    "sel08o2Cq0RG8B2oE": {
+        "id": "sel08o2Cq0RG8B2oE",
+        "name": "Gradignan",
+        "color": "tealDark"
+    },
+    "selIVefjmo3lvgKRh": {
+        "id": "selIVefjmo3lvgKRh",
+        "name": "Nantes",
+        "color": "yellow"
+    },
+    "sel37HQm0SjIK3w2i": {
+        "id": "sel37HQm0SjIK3w2i",
+        "name": "Izmir",
+        "color": "cyan"
+    },
+    "selGmti62tbKxF7FF": {
+        "id": "selGmti62tbKxF7FF",
+        "name": "Taipei ",
+        "color": "blueDarker"
+    },
+    "sel4UyWAkIWo1tCV9": {
+        "id": "sel4UyWAkIWo1tCV9",
+        "name": "REIMS",
+        "color": "pinkMedium"
+    },
+    "selaiX3gHUEldm8D4": {
+        "id": "selaiX3gHUEldm8D4",
+        "name": "Albi",
+        "color": "purpleMedium"
+    },
+    "selbXReRV8tqRm6gb": {
+        "id": "selbXReRV8tqRm6gb",
+        "name": "HeFei",
+        "color": "yellowDark"
+    },
+    "selrWxYWApvXqq3FG": {
+        "id": "selrWxYWApvXqq3FG",
+        "name": "Freetown, Sierra Leone.",
+        "color": "pinkDark"
+    },
+    "selC3V4EzSphXro83": {
+        "id": "selC3V4EzSphXro83",
+        "name": "Seongnam",
+        "color": "greenDark"
+    },
+    "selijhxPwxVCnJyJL": {
+        "id": "selijhxPwxVCnJyJL",
+        "name": "Zhubei City",
+        "color": "purpleMedium"
+    },
+    "selF2n4qjaqoSJ0RE": {
+        "id": "selF2n4qjaqoSJ0RE",
+        "name": "Buschwiller",
+        "color": "tealDark"
+    },
+    "selHdHvvLTUfriEgH": {
+        "id": "selHdHvvLTUfriEgH",
+        "name": "Toronto",
+        "color": "grayDarker"
+    },
+    "selRJjAkklE1ljvPU": {
+        "id": "selRJjAkklE1ljvPU",
+        "name": "Montreal",
+        "color": "cyanDarker"
+    },
+    "selLp49BROdd5fkMI": {
+        "id": "selLp49BROdd5fkMI",
+        "name": "Ottawa, ON",
+        "color": "yellowDarker"
+    },
+    "selmlSXnOcKFQD26h": {
+        "id": "selmlSXnOcKFQD26h",
+        "name": "LYON",
+        "color": "pinkMedium"
+    },
+    "sellEH2V0HrOrEp3j": {
+        "id": "sellEH2V0HrOrEp3j",
+        "name": "ALGIERS",
+        "color": "teal"
+    },
+    "selDjmW34AipjKOQb": {
+        "id": "selDjmW34AipjKOQb",
+        "name": "Saarbrücken",
+        "color": "pink"
+    },
+    "seleIdqkFs0pkbj4C": {
+        "id": "seleIdqkFs0pkbj4C",
+        "name": "No. 2, Wenxian Rd., Nantou City, Nantou County 540219, Taiwan",
+        "color": "purpleDark"
+    },
+    "selicwjP9XVbqCEia": {
+        "id": "selicwjP9XVbqCEia",
+        "name": "London",
+        "color": "yellowMedium"
+    },
+    "selxA7JNgJRIfveFO": {
+        "id": "selxA7JNgJRIfveFO",
+        "name": "Fontainebleau",
+        "color": "grayDarker"
+    },
+    "selTrNvAJdC1UQzCF": {
+        "id": "selTrNvAJdC1UQzCF",
+        "name": "Rotterdam",
+        "color": "orangeDarker"
+    },
+    "selbXws2iJ21QEWnr": {
+        "id": "selbXws2iJ21QEWnr",
+        "name": "Krailling (Munich)",
+        "color": "green"
+    },
+    "selua01GRGQrgB0Ed": {
+        "id": "selua01GRGQrgB0Ed",
+        "name": "Saint-Viance",
+        "color": "red"
+    },
+    "selddjNH5Vt9RTj9H": {
+        "id": "selddjNH5Vt9RTj9H",
+        "name": "Liège",
+        "color": "yellowDark"
+    },
+    "sel98Fyi4Z3ikXiUF": {
+        "id": "sel98Fyi4Z3ikXiUF",
+        "name": "Lausanne",
+        "color": "green"
+    },
+    "selJcc5tx5eRWtI9x": {
+        "id": "selJcc5tx5eRWtI9x",
+        "name": "LA DEFENSE",
+        "color": "tealDarker"
+    },
+    "sel5E8zDr3fhG3nty": {
+        "id": "sel5E8zDr3fhG3nty",
+        "name": "Vienne",
+        "color": "blue"
+    },
+    "selYFV2dPctHHn2PA": {
+        "id": "selYFV2dPctHHn2PA",
+        "name": "Versailles",
+        "color": "yellowMedium"
+    },
+    "sel68Z7Tvb15TsFxC": {
+        "id": "sel68Z7Tvb15TsFxC",
+        "name": "Valence en poitou",
+        "color": "blueMedium"
+    },
+    "selypkB8yRec6ijzA": {
+        "id": "selypkB8yRec6ijzA",
+        "name": "Bordeaux",
+        "color": "grayDark"
+    },
+    "selb8XFVZ7r7fHExT": {
+        "id": "selb8XFVZ7r7fHExT",
+        "name": "Liege",
+        "color": "cyan"
+    },
+    "selxTXOs92EtlbQsJ": {
+        "id": "selxTXOs92EtlbQsJ",
+        "name": "Burlington, Ontario ",
+        "color": "greenMedium"
+    },
+    "selxv6nPeBkXAgmxK": {
+        "id": "selxv6nPeBkXAgmxK",
+        "name": "ARCANGUES",
+        "color": "yellowMedium"
+    },
+    "selH7xOnfQFTz6AcS": {
+        "id": "selH7xOnfQFTz6AcS",
+        "name": "Baie-Mahault",
+        "color": "greenDarker"
+    },
+    "sel0u1h0Hn4EaB4df": {
+        "id": "sel0u1h0Hn4EaB4df",
+        "name": "Mountain View",
+        "color": "cyanMedium"
+    },
+    "selPXLn0v1MV593Zl": {
+        "id": "selPXLn0v1MV593Zl",
+        "name": "LE PORT",
+        "color": "grayDark"
+    },
+    "selcb3hN7rfclmhjk": {
+        "id": "selcb3hN7rfclmhjk",
+        "name": "Benicia",
+        "color": "tealDark"
+    },
+    "selo8wR5u5SiSBfse": {
+        "id": "selo8wR5u5SiSBfse",
+        "name": "Massy",
+        "color": "purple"
+    },
+    "selfWYV3TY7s8HxfZ": {
+        "id": "selfWYV3TY7s8HxfZ",
+        "name": "Barcelona",
+        "color": "blueDarker"
+    },
+    "selBuE6KVcsp2roI9": {
+        "id": "selBuE6KVcsp2roI9",
+        "name": "Sofia",
+        "color": "cyanDarker"
+    },
+    "selkwi5oiKAB1LDeE": {
+        "id": "selkwi5oiKAB1LDeE",
+        "name": "renens",
+        "color": "blue"
+    },
+    "selj7typIY3JjLQZD": {
+        "id": "selj7typIY3JjLQZD",
+        "name": "NANTES",
+        "color": "greenDark"
+    },
+    "selJoAxIGYPL4pHAt": {
+        "id": "selJoAxIGYPL4pHAt",
+        "name": "SEOUL",
+        "color": "grayDark"
+    },
+    "selR0z4hWni64D8c0": {
+        "id": "selR0z4hWni64D8c0",
+        "name": "ANGERS",
+        "color": "yellowMedium"
+    },
+    "selODJMSj1FDXk4vK": {
+        "id": "selODJMSj1FDXk4vK",
+        "name": "Yerevan",
+        "color": "orangeDark"
+    },
+    "selZXP4NuQ4b9i4rZ": {
+        "id": "selZXP4NuQ4b9i4rZ",
+        "name": "Okinawa",
+        "color": "teal"
+    },
+    "selcMCB3qvQGjSGAw": {
+        "id": "selcMCB3qvQGjSGAw",
+        "name": "Voisins-le-Bretonneux",
+        "color": "redDarker"
+    },
+    "selLztOpsIxZXxcy1": {
+        "id": "selLztOpsIxZXxcy1",
+        "name": "Gothenburg",
+        "color": "pink"
+    },
+    "selfyo065boB1U8Pb": {
+        "id": "selfyo065boB1U8Pb",
+        "name": "Canteleu",
+        "color": "blueDark"
+    },
+    "seljpsM3vYT8SD6on": {
+        "id": "seljpsM3vYT8SD6on",
+        "name": "Kockelscheuer",
+        "color": "red"
+    },
+    "selmyFWF69baFPYMO": {
+        "id": "selmyFWF69baFPYMO",
+        "name": "Nice",
+        "color": "redDarker"
+    },
+    "selmF4VuI4iYXVPhO": {
+        "id": "selmF4VuI4iYXVPhO",
+        "name": "Saint-Denis",
+        "color": "grayDark"
+    },
+    "selbZeIlsdUd5vYn7": {
+        "id": "selbZeIlsdUd5vYn7",
+        "name": "TUNIS",
+        "color": "green"
+    },
+    "selHiZqkaSKJECWiY": {
+        "id": "selHiZqkaSKJECWiY",
+        "name": "Montpellier ",
+        "color": "green"
+    },
+    "selkaWgz06R3Oel1S": {
+        "id": "selkaWgz06R3Oel1S",
+        "name": "Valbonne",
+        "color": "grayMedium"
+    },
+    "selsXL6i983960uH7": {
+        "id": "selsXL6i983960uH7",
+        "name": "Chartres",
+        "color": "grayDark"
+    },
+    "selQVuZlZpGLusy7C": {
+        "id": "selQVuZlZpGLusy7C",
+        "name": "Rueil-Malmaison",
+        "color": "orangeMedium"
+    },
+    "selJfO6pjhqFfSdcl": {
+        "id": "selJfO6pjhqFfSdcl",
+        "name": "NIMES",
+        "color": "tealMedium"
+    },
+    "selceJJYXApBpKDaJ": {
+        "id": "selceJJYXApBpKDaJ",
+        "name": "PANTIN",
+        "color": "purpleDark"
+    },
+    "sel1bfJoUkpTHcpDn": {
+        "id": "sel1bfJoUkpTHcpDn",
+        "name": "Saint Clément de Riviére",
+        "color": "orangeDarker"
+    },
+    "sel3emZT787wESHjB": {
+        "id": "sel3emZT787wESHjB",
+        "name": "Bouéni",
+        "color": "pinkDark"
+    },
+    "sel9B5kfstlqwrTqZ": {
+        "id": "sel9B5kfstlqwrTqZ",
+        "name": "MERIGNAC",
+        "color": "purpleDarker"
+    },
+    "selNIoblMif7aGNrv": {
+        "id": "selNIoblMif7aGNrv",
+        "name": "Baie Mahault",
+        "color": "grayDark"
+    },
+    "selAv6vr7Agbd1lqG": {
+        "id": "selAv6vr7Agbd1lqG",
+        "name": "Saint Etienne",
+        "color": "cyan"
+    },
+    "selJ9kuamSrUqL5aK": {
+        "id": "selJ9kuamSrUqL5aK",
+        "name": "Louvigne",
+        "color": "blueDark"
+    },
+    "selWm1N8ieTgxh2iZ": {
+        "id": "selWm1N8ieTgxh2iZ",
+        "name": "Senningerberg",
+        "color": "blueMedium"
+    },
+    "seleFA44W8YJbkBGg": {
+        "id": "seleFA44W8YJbkBGg",
+        "name": "Villeneuve-d'Ascq",
+        "color": "blueMedium"
+    },
+    "selgwWklohKdzEvTX": {
+        "id": "selgwWklohKdzEvTX",
+        "name": "Nivelles",
+        "color": "gray"
+    },
+    "selM1q6UiRKCEjDGQ": {
+        "id": "selM1q6UiRKCEjDGQ",
+        "name": "Zug",
+        "color": "tealDarker"
+    },
+    "selhNSQVOs0Sevqal": {
+        "id": "selhNSQVOs0Sevqal",
+        "name": "Namyangju City, Gyeonggi Province ",
+        "color": "yellow"
+    },
+    "selOEuJxHsaeVX5Xv": {
+        "id": "selOEuJxHsaeVX5Xv",
+        "name": "ZAAMSLAG",
+        "color": "redDarker"
+    },
+    "selIY11CadKTGVJzX": {
+        "id": "selIY11CadKTGVJzX",
+        "name": "Renens",
+        "color": "tealDarker"
+    },
+    "selwId28KIfrDFAdO": {
+        "id": "selwId28KIfrDFAdO",
+        "name": "Barjols",
+        "color": "orange"
+    },
+    "selJuWchnGYZvaWTY": {
+        "id": "selJuWchnGYZvaWTY",
+        "name": "Bernay",
+        "color": "teal"
+    },
+    "sel4H4xboUIV8sztt": {
+        "id": "sel4H4xboUIV8sztt",
+        "name": "Aichi",
+        "color": "orangeDark"
+    },
+    "sel3WzXm6s3yM8BEZ": {
+        "id": "sel3WzXm6s3yM8BEZ",
+        "name": "Palo Alto",
+        "color": "greenDarker"
+    },
+    "selpfihdyMNsJSZXB": {
+        "id": "selpfihdyMNsJSZXB",
+        "name": "Utrecht",
+        "color": "pink"
+    },
+    "selRKAGcqQW4ZdaZt": {
+        "id": "selRKAGcqQW4ZdaZt",
+        "name": "Palaiseau",
+        "color": "red"
+    },
+    "selm4tAxuiEU0HXQH": {
+        "id": "selm4tAxuiEU0HXQH",
+        "name": "La Rochelle",
+        "color": "tealMedium"
+    },
+    "selHPji45ecZT18DV": {
+        "id": "selHPji45ecZT18DV",
+        "name": "SINGAPORE",
+        "color": "purpleDarker"
+    },
+    "seldVofJi17XzFmT3": {
+        "id": "seldVofJi17XzFmT3",
+        "name": "428014",
+        "color": "yellowDark"
+    },
+    "sel0yHdtFyFXlFgDO": {
+        "id": "sel0yHdtFyFXlFgDO",
+        "name": "Wilmington",
+        "color": "teal"
+    },
+    "sel0rdortgGRwrqfC": {
+        "id": "sel0rdortgGRwrqfC",
+        "name": "Singapore ",
+        "color": "redMedium"
+    },
+    "selM19kRjAFgiO49V": {
+        "id": "selM19kRjAFgiO49V",
+        "name": "Orleans",
+        "color": "greenDarker"
+    },
+    "selXz16eWtPfo7vyc": {
+        "id": "selXz16eWtPfo7vyc",
+        "name": "Noumea",
+        "color": "pinkDarker"
+    },
+    "selqchUZjrltiv34D": {
+        "id": "selqchUZjrltiv34D",
+        "name": "Taichung City",
+        "color": "grayMedium"
+    },
+    "selAN2OgB4L29JRNZ": {
+        "id": "selAN2OgB4L29JRNZ",
+        "name": "Pampelune",
+        "color": "blue"
+    },
+    "selevtRQO2I9RZNUi": {
+        "id": "selevtRQO2I9RZNUi",
+        "name": "Hong Kong",
+        "color": "gray"
+    },
+    "selbJBKINCIzps3lt": {
+        "id": "selbJBKINCIzps3lt",
+        "name": "BATTICE (Liège)",
+        "color": "cyan"
+    },
+    "selI9GDpgP92pAcLk": {
+        "id": "selI9GDpgP92pAcLk",
+        "name": "Auckland Pertuis",
+        "color": "grayMedium"
+    },
+    "selX4J2fqYWmjNsjE": {
+        "id": "selX4J2fqYWmjNsjE",
+        "name": "Marseille",
+        "color": "orange"
+    },
+    "selHcccsONjudW3bh": {
+        "id": "selHcccsONjudW3bh",
+        "name": "Munich",
+        "color": "purpleMedium"
+    },
+    "selnOEOm7rtY1bQcx": {
+        "id": "selnOEOm7rtY1bQcx",
+        "name": "Turin",
+        "color": "tealDarker"
+    },
+    "selRsuwvYmNz0qNKC": {
+        "id": "selRsuwvYmNz0qNKC",
+        "name": "SAINT ESPRIT",
+        "color": "greenDarker"
+    },
+    "selH4Vse1WJ5N1vH0": {
+        "id": "selH4Vse1WJ5N1vH0",
+        "name": "Geneva",
+        "color": "yellowDark"
+    },
+    "selsflYI0GGJUzy97": {
+        "id": "selsflYI0GGJUzy97",
+        "name": "Alès",
+        "color": "red"
+    },
+    "selUXjxMdpLpMaQxN": {
+        "id": "selUXjxMdpLpMaQxN",
+        "name": "La Possession",
+        "color": "blueDarker"
+    },
+    "selOzudHxSIAsFNUU": {
+        "id": "selOzudHxSIAsFNUU",
+        "name": "Busan",
+        "color": "greenDarker"
+    },
+    "selmf2JxwAh7xsOW5": {
+        "id": "selmf2JxwAh7xsOW5",
+        "name": "Incheon",
+        "color": "orangeDark"
+    },
+    "sel7VvRDetayEoiZB": {
+        "id": "sel7VvRDetayEoiZB",
+        "name": "Pohang",
+        "color": "orangeDarker"
+    },
+    "sel9c7Vlh3cWDS7vs": {
+        "id": "sel9c7Vlh3cWDS7vs",
+        "name": "ROUEN",
+        "color": "pinkDark"
+    },
+    "selxirbIOoy9wB1to": {
+        "id": "selxirbIOoy9wB1to",
+        "name": "LOOS",
+        "color": "grayMedium"
+    },
+    "selck1mvi1srhjsia": {
+        "id": "selck1mvi1srhjsia",
+        "name": "Madrid",
+        "color": "purpleMedium"
+    },
+    "selxMcP3ikJga1lrP": {
+        "id": "selxMcP3ikJga1lrP",
+        "name": "GUE DE CONSTANTINE",
+        "color": "purpleDark"
+    },
+    "selnQXNdXpxtxY0Ys": {
+        "id": "selnQXNdXpxtxY0Ys",
+        "name": "Nanterre Cedex",
+        "color": "grayDarker"
+    },
+    "selv0cIp6Ly5qu25Z": {
+        "id": "selv0cIp6Ly5qu25Z",
+        "name": "East Lansing",
+        "color": "green"
+    },
+    "selPnQWSHFSiuT9x1": {
+        "id": "selPnQWSHFSiuT9x1",
+        "name": "Zürich",
+        "color": "redMedium"
+    },
+    "seleIuONnWsgg4DO0": {
+        "id": "seleIuONnWsgg4DO0",
+        "name": "Quebec",
+        "color": "greenDark"
+    },
+    "selAcRiLNU9IgcGo0": {
+        "id": "selAcRiLNU9IgcGo0",
+        "name": "Gif sur Yvette",
+        "color": "blue"
+    },
+    "selkz7f3od8WvhcGG": {
+        "id": "selkz7f3od8WvhcGG",
+        "name": "北京",
+        "color": "blue"
+    },
+    "selq1uQSHuB41lWSm": {
+        "id": "selq1uQSHuB41lWSm",
+        "name": "Bordeaux - Paris - Montpellier ",
+        "color": "tealMedium"
+    },
+    "sel0CRlpKCCWwPqoA": {
+        "id": "sel0CRlpKCCWwPqoA",
+        "name": "Calgary",
+        "color": "pinkDarker"
+    },
+    "selQIEa4BTwQIcwyg": {
+        "id": "selQIEa4BTwQIcwyg",
+        "name": "LA ROCHE SUR YON",
+        "color": "blue"
+    },
+    "selPRNB73igWOiVq0": {
+        "id": "selPRNB73igWOiVq0",
+        "name": "METZ",
+        "color": "blue"
+    },
+    "selWrvLlhdKkRNSUT": {
+        "id": "selWrvLlhdKkRNSUT",
+        "name": "Planegg",
+        "color": "blue"
+    },
+    "sel1IqCE9RF15Lxo3": {
+        "id": "sel1IqCE9RF15Lxo3",
+        "name": "Dijon",
+        "color": "yellowMedium"
+    },
+    "selrds2gpMA0vGRhg": {
+        "id": "selrds2gpMA0vGRhg",
+        "name": "Saint-Pierre",
+        "color": "blue"
+    },
+    "selEdjrLCrd3Y8Tmx": {
+        "id": "selEdjrLCrd3Y8Tmx",
+        "name": "Delft",
+        "color": "teal"
+    },
+    "selLm9EXDm4hpjQHy": {
+        "id": "selLm9EXDm4hpjQHy",
+        "name": "Bidart",
+        "color": "blue"
+    },
+    "selz4uotDQyRCdEEQ": {
+        "id": "selz4uotDQyRCdEEQ",
+        "name": "Hefei",
+        "color": "blue"
+    },
+    "selbMnHeAZJ3TyhIF": {
+        "id": "selbMnHeAZJ3TyhIF",
+        "name": "Béjaia",
+        "color": "blue"
+    },
+    "selh0tpqv7C0wlzwc": {
+        "id": "selh0tpqv7C0wlzwc",
+        "name": "Berkeley",
+        "color": "blue"
+    },
+    "selMxECKHHROFyz1r": {
+        "id": "selMxECKHHROFyz1r",
+        "name": "Hsinchu City",
+        "color": "blue"
+    },
+    "selapUUyEawpJS8ts": {
+        "id": "selapUUyEawpJS8ts",
+        "name": "Tainan",
+        "color": "pinkDark"
+    },
+    "selMSFIOvWIf6GVuX": {
+        "id": "selMSFIOvWIf6GVuX",
+        "name": "Tallinn",
+        "color": "cyanMedium"
+    },
+    "selXhz9x1x7vpSTPR": {
+        "id": "selXhz9x1x7vpSTPR",
+        "name": "Shenzhen",
+        "color": "blue"
+    },
+    "selrrDlV0iCMuYC7n": {
+        "id": "selrrDlV0iCMuYC7n",
+        "name": "Plaimpied-Givaudins",
+        "color": "blue"
+    },
+    "selKAAT59BXvjQZ9Z": {
+        "id": "selKAAT59BXvjQZ9Z",
+        "name": "Maisons-Laffitte",
+        "color": "blue"
+    },
+    "selETthd7vi0lf46K": {
+        "id": "selETthd7vi0lf46K",
+        "name": "Orsay",
+        "color": "blueMedium"
+    },
+    "selAwYqUR36fgRL1t": {
+        "id": "selAwYqUR36fgRL1t",
+        "name": "skikda",
+        "color": "blue"
+    },
+    "sellI6GIsYpp7PIeZ": {
+        "id": "sellI6GIsYpp7PIeZ",
+        "name": "Verrières-le-Buisson",
+        "color": "blue"
+    },
+    "selLyCClJweF5ALFq": {
+        "id": "selLyCClJweF5ALFq",
+        "name": "Dubai",
+        "color": "purple"
+    },
+    "sel3CfkEnceHz28wT": {
+        "id": "sel3CfkEnceHz28wT",
+        "name": "Boissy-le-Chatel",
+        "color": "blue"
+    },
+    "selaXdDPHAoLS7h9u": {
+        "id": "selaXdDPHAoLS7h9u",
+        "name": "'s-Hertogenbosch",
+        "color": "blue"
+    },
+    "seldoYY509x4AfdDu": {
+        "id": "seldoYY509x4AfdDu",
+        "name": "SOUSSE",
+        "color": "green"
+    },
+    "selzCjTCKv5Ev9CbP": {
+        "id": "selzCjTCKv5Ev9CbP",
+        "name": "Tokyo",
+        "color": "orangeDarker"
+    },
+    "seleZIjlJ8pcqBJEh": {
+        "id": "seleZIjlJ8pcqBJEh",
+        "name": "Tunis",
+        "color": "greenMedium"
+    },
+    "selOmF8pOIgwAgymF": {
+        "id": "selOmF8pOIgwAgymF",
+        "name": "Auxerre",
+        "color": "grayDark"
+    },
+    "sel7M92Kv5ArKrIiM": {
+        "id": "sel7M92Kv5ArKrIiM",
+        "name": "Rafraf ",
+        "color": "purple"
+    },
+    "selhNjleRLEBK5peR": {
+        "id": "selhNjleRLEBK5peR",
+        "name": "Kasserine",
+        "color": "orange"
+    },
+    "selLRmOj2lIYCtBrK": {
+        "id": "selLRmOj2lIYCtBrK",
+        "name": "La Marsa",
+        "color": "pink"
+    },
+    "selq1DAw8cQ68JcVL": {
+        "id": "selq1DAw8cQ68JcVL",
+        "name": "Villeneuve d'Ascq",
+        "color": "gray"
+    },
+    "sela0iElz5ApQORfa": {
+        "id": "sela0iElz5ApQORfa",
+        "name": "TOULOUSE-LE-CHATEAU",
+        "color": "tealDarker"
+    },
+    "selUIySec34Jq1TPh": {
+        "id": "selUIySec34Jq1TPh",
+        "name": "Beijing",
+        "color": "yellowDarker"
+    },
+    "selMCuRKuoFmguqzL": {
+        "id": "selMCuRKuoFmguqzL",
+        "name": "Buchs SG",
+        "color": "yellowMedium"
+    },
+    "sel7EzhvvUdv2OZav": {
+        "id": "sel7EzhvvUdv2OZav",
+        "name": "Eindhoven",
+        "color": "pinkDark"
+    },
+    "selTC6okxRnbZfJ07": {
+        "id": "selTC6okxRnbZfJ07",
+        "name": "New Taipei",
+        "color": "blue"
+    },
+    "selzTN0KosSKFip7r": {
+        "id": "selzTN0KosSKFip7r",
+        "name": "Avion",
+        "color": "blue"
+    },
+    "selTcUPpanAzEeSTc": {
+        "id": "selTcUPpanAzEeSTc",
+        "name": "PARIS LA DEFENSE",
+        "color": "blue"
+    },
+    "seloB2Ynfqep8FzCA": {
+        "id": "seloB2Ynfqep8FzCA",
+        "name": "Dresden",
+        "color": "purpleDarker"
+    },
+    "selBOGQOFrzxG14cU": {
+        "id": "selBOGQOFrzxG14cU",
+        "name": "LA CADIERE D AZUR",
+        "color": "blue"
+    },
+    "selSFEPGUF2Xy4OYV": {
+        "id": "selSFEPGUF2Xy4OYV",
+        "name": "New York,",
+        "color": "blue"
+    },
+    "selnYDwQD48SXEJr0": {
+        "id": "selnYDwQD48SXEJr0",
+        "name": "ORAN",
+        "color": "blue"
+    },
+    "selpeZLDi6qDJBOFA": {
+        "id": "selpeZLDi6qDJBOFA",
+        "name": "THULIN",
+        "color": "blue"
+    },
+    "selQH1U6YlgMglihQ": {
+        "id": "selQH1U6YlgMglihQ",
+        "name": "Vancouver",
+        "color": "greenDarker"
+    },
+    "selr5DwGfCpkWtaYZ": {
+        "id": "selr5DwGfCpkWtaYZ",
+        "name": "Merignac",
+        "color": "blue"
+    },
+    "sel4B5qa1IHu6MVkZ": {
+        "id": "sel4B5qa1IHu6MVkZ",
+        "name": "MARSEILLE",
+        "color": "blueDarker"
+    },
+    "selcmH3jAjmkS2INy": {
+        "id": "selcmH3jAjmkS2INy",
+        "name": "Papeete",
+        "color": "greenMedium"
+    },
+    "selQcNleeczxFdHGZ": {
+        "id": "selQcNleeczxFdHGZ",
+        "name": "Bruxelles",
+        "color": "yellowMedium"
+    },
+    "selUFpy2VVejhSlGl": {
+        "id": "selUFpy2VVejhSlGl",
+        "name": "FORT DE FRANCE",
+        "color": "yellowDarker"
+    },
+    "selFl4XbS04l2MapQ": {
+        "id": "selFl4XbS04l2MapQ",
+        "name": "TOURCOING",
+        "color": "pink"
+    },
+    "sel5rGgHWzRK2xOJd": {
+        "id": "sel5rGgHWzRK2xOJd",
+        "name": "New Taipei City",
+        "color": "grayDark"
+    },
+    "selH8hhZL5ZMWxV29": {
+        "id": "selH8hhZL5ZMWxV29",
+        "name": "ALGER",
+        "color": "blueDarker"
+    },
+    "selj7mRNluQ6E2Pko": {
+        "id": "selj7mRNluQ6E2Pko",
+        "name": "LE PETIT-QUEVILLY",
+        "color": "grayMedium"
+    },
+    "selyc0sgDjByUi9bg": {
+        "id": "selyc0sgDjByUi9bg",
+        "name": "Begles",
+        "color": "orange"
+    },
+    "selQESjycbCGlvF6X": {
+        "id": "selQESjycbCGlvF6X",
+        "name": "MAMOUDZOU",
+        "color": "blue"
+    },
+    "sel6B8lN6LsguvMrw": {
+        "id": "sel6B8lN6LsguvMrw",
+        "name": "Saint-Martin d'Hères",
+        "color": "cyanDark"
+    },
+    "selREgCDq3fP7efnO": {
+        "id": "selREgCDq3fP7efnO",
+        "name": "Mamoudzou",
+        "color": "blue"
+    },
+    "sel1lSzmbCMHcoD5j": {
+        "id": "sel1lSzmbCMHcoD5j",
+        "name": "paris",
+        "color": "greenMedium"
+    },
+    "selu9Pt4tHKj22jMf": {
+        "id": "selu9Pt4tHKj22jMf",
+        "name": "Châteauroux",
+        "color": "pinkMedium"
+    },
+    "sel9PgBaT7UA0wvyu": {
+        "id": "sel9PgBaT7UA0wvyu",
+        "name": "Nouméa",
+        "color": "grayDarker"
+    },
+    "selQ2ZGP0okckWSzL": {
+        "id": "selQ2ZGP0okckWSzL",
+        "name": "Hsinchu",
+        "color": "redDark"
+    },
+    "sel0rR5MuddBm8LhP": {
+        "id": "sel0rR5MuddBm8LhP",
+        "name": "Brussels",
+        "color": "redDark"
+    },
+    "seljqjyyPoCGJOte3": {
+        "id": "seljqjyyPoCGJOte3",
+        "name": "Sophia Antipolis",
+        "color": "blue"
+    },
+    "selKqXIXyGzVHac52": {
+        "id": "selKqXIXyGzVHac52",
+        "name": "Saint Joseph",
+        "color": "tealDarker"
+    },
+    "selv3VSNt4zOr5xsP": {
+        "id": "selv3VSNt4zOr5xsP",
+        "name": "Saint-Mandé",
+        "color": "tealMedium"
+    },
+    "sel6uEGijIfM4rCjD": {
+        "id": "sel6uEGijIfM4rCjD",
+        "name": "Greußenheim",
+        "color": "greenMedium"
+    },
+    "selkl8xw17tHFq1fX": {
+        "id": "selkl8xw17tHFq1fX",
+        "name": "JARGEAU",
+        "color": "cyanDark"
+    },
+    "selSFbyK1crTbRW4U": {
+        "id": "selSFbyK1crTbRW4U",
+        "name": "noumea",
+        "color": "blueDarker"
+    },
+    "selsAbrXOm1ooMX7N": {
+        "id": "selsAbrXOm1ooMX7N",
+        "name": "DIJON",
+        "color": "grayDark"
+    },
+    "selDyQ3G3r6o8w4uL": {
+        "id": "selDyQ3G3r6o8w4uL",
+        "name": "Laval",
+        "color": "blue"
+    },
+    "sel7lIZtD2ZoV5igP": {
+        "id": "sel7lIZtD2ZoV5igP",
+        "name": "Caen",
+        "color": "gray"
+    },
+    "selMDALtvvjlfl42f": {
+        "id": "selMDALtvvjlfl42f",
+        "name": "NOUMEA",
+        "color": "orangeMedium"
+    },
+    "sel5BXn1TiPjmYU7s": {
+        "id": "sel5BXn1TiPjmYU7s",
+        "name": "NICE",
+        "color": "yellowDarker"
+    },
+    "sel6QaysvM7Ng63Bx": {
+        "id": "sel6QaysvM7Ng63Bx",
+        "name": "LA ROCHELLE",
+        "color": "green"
+    },
+    "sel7xxM8CmmAQbFAl": {
+        "id": "sel7xxM8CmmAQbFAl",
+        "name": "DRAGUIGNAN",
+        "color": "pinkMedium"
+    },
+    "selzvDGu9KPPfEgCy": {
+        "id": "selzvDGu9KPPfEgCy",
+        "name": "Basel",
+        "color": "cyanMedium"
+    },
+    "selREU8xmQotl7W52": {
+        "id": "selREU8xmQotl7W52",
+        "name": "Boulogne-Billancourt",
+        "color": "yellow"
+    },
+    "selr5SDh2fcu2AduQ": {
+        "id": "selr5SDh2fcu2AduQ",
+        "name": "Den Haag",
+        "color": "purpleDark"
+    },
+    "selV0XRoYcVPHrNya": {
+        "id": "selV0XRoYcVPHrNya",
+        "name": "YILAN",
+        "color": "greenDark"
+    },
+    "selbP2mDSq2UmsRlT": {
+        "id": "selbP2mDSq2UmsRlT",
+        "name": "ORLEANS",
+        "color": "blueDarker"
+    },
+    "selzmmvnctXnIGB4h": {
+        "id": "selzmmvnctXnIGB4h",
+        "name": "Le Creusot",
+        "color": "blueDarker"
+    },
+    "selkYSyZ4IkgRM0YZ": {
+        "id": "selkYSyZ4IkgRM0YZ",
+        "name": "COURBEVOIE",
+        "color": "grayDark"
+    },
+    "sel1hEsgGnhdkKiRB": {
+        "id": "sel1hEsgGnhdkKiRB",
+        "name": "Angers",
+        "color": "green"
+    },
+    "sel2SaSt7wdVWPtMc": {
+        "id": "sel2SaSt7wdVWPtMc",
+        "name": "Parma",
+        "color": "blueDarker"
+    },
+    "selsPKxI5X1Fu2YM4": {
+        "id": "selsPKxI5X1Fu2YM4",
+        "name": "Bagnolet ",
+        "color": "orangeDark"
+    },
+    "selEpMwflbzRwI4S1": {
+        "id": "selEpMwflbzRwI4S1",
+        "name": "La Bosse, Vievy-le-rayé",
+        "color": "redMedium"
+    },
+    "selA02b4QmQnG65nL": {
+        "id": "selA02b4QmQnG65nL",
+        "name": "Niort",
+        "color": "gray"
+    },
+    "selcMGc7VjcgXC2rT": {
+        "id": "selcMGc7VjcgXC2rT",
+        "name": "Aix-en-Provence ",
+        "color": "tealMedium"
+    },
+    "sel33Zx6NxnUK1eaO": {
+        "id": "sel33Zx6NxnUK1eaO",
+        "name": "Abu Dhabi",
+        "color": "blue"
+    },
+    "sel68n4waaNjNByh1": {
+        "id": "sel68n4waaNjNByh1",
+        "name": "Biot",
+        "color": "cyanMedium"
+    },
+    "selgBNKlJeM0YC1zv": {
+        "id": "selgBNKlJeM0YC1zv",
+        "name": "Evry-Courcouronnes",
+        "color": "blue"
+    },
+    "selPHC0iXTGdbvatE": {
+        "id": "selPHC0iXTGdbvatE",
+        "name": "Villiers le Morhier",
+        "color": "purpleMedium"
+    },
+    "selBPob3nz3BzvCTy": {
+        "id": "selBPob3nz3BzvCTy",
+        "name": "Saint-Ouen-l'Aumône",
+        "color": "blue"
+    },
+    "sel9Ppo15Jdbzi7qC": {
+        "id": "sel9Ppo15Jdbzi7qC",
+        "name": "Issoire",
+        "color": "blue"
+    },
+    "selhewBlNdNvIvBi7": {
+        "id": "selhewBlNdNvIvBi7",
+        "name": "Vernon",
+        "color": "blue"
+    },
+    "selx14p2KPnqEvOmy": {
+        "id": "selx14p2KPnqEvOmy",
+        "name": "France",
+        "color": "tealMedium"
+    },
+    "selXuBF17KYn06qIr": {
+        "id": "selXuBF17KYn06qIr",
+        "name": "Wildau",
+        "color": "grayMedium"
+    },
+    "selEqndLbJSrAihl3": {
+        "id": "selEqndLbJSrAihl3",
+        "name": " Neuilly-sur-Seine",
+        "color": "cyanDark"
+    },
+    "seljkSVf9JZecBZIX": {
+        "id": "seljkSVf9JZecBZIX",
+        "name": "St Mandé",
+        "color": "blue"
+    },
+    "selfm7jGGTDaam3vy": {
+        "id": "selfm7jGGTDaam3vy",
+        "name": "HAGUENAU",
+        "color": "cyanDarker"
+    },
+    "selVv9m6kuy9MwVGR": {
+        "id": "selVv9m6kuy9MwVGR",
+        "name": "Budapest",
+        "color": "pinkMedium"
+    },
+    "selEgbbiJ4QMJnN7F": {
+        "id": "selEgbbiJ4QMJnN7F",
+        "name": "LILLE",
+        "color": "cyan"
+    },
+    "sel7uTwJp5uXoeCfU": {
+        "id": "sel7uTwJp5uXoeCfU",
+        "name": "Waterloo",
+        "color": "tealDarker"
+    },
+    "sel5dsUs94wR5N98u": {
+        "id": "sel5dsUs94wR5N98u",
+        "name": "Saint Laurent Blangy",
+        "color": "yellowDark"
+    },
+    "selzTnbmP2jiARxKT": {
+        "id": "selzTnbmP2jiARxKT",
+        "name": "Wasquehal",
+        "color": "blue"
+    },
+    "selKJUhcSE29jAudg": {
+        "id": "selKJUhcSE29jAudg",
+        "name": "Puteaux",
+        "color": "yellow"
+    },
+    "selpvagizPY2lG9nt": {
+        "id": "selpvagizPY2lG9nt",
+        "name": "Rennes",
+        "color": "pink"
+    },
+    "selGGwZkbky8nVc9D": {
+        "id": "selGGwZkbky8nVc9D",
+        "name": "Montigny-en-Gohelle",
+        "color": "cyan"
+    },
+    "selxOdYVA4LRygSHp": {
+        "id": "selxOdYVA4LRygSHp",
+        "name": "Paris La Défense CEDEX",
+        "color": "purpleDark"
+    },
+    "selSSGGa4sWhX9fxb": {
+        "id": "selSSGGa4sWhX9fxb",
+        "name": "Cesson-Sevigné",
+        "color": "blue"
+    },
+    "selHIZ4WtxE8lyN01": {
+        "id": "selHIZ4WtxE8lyN01",
+        "name": "Clichy",
+        "color": "blue"
+    },
+    "selQS36IBq3sQwOvQ": {
+        "id": "selQS36IBq3sQwOvQ",
+        "name": "Dieppe - New Brunswick",
+        "color": "tealMedium"
+    },
+    "selZ6WjvbMSJBasp7": {
+        "id": "selZ6WjvbMSJBasp7",
+        "name": "Talinn",
+        "color": "greenMedium"
+    },
+    "selsguEaQkTiTGb50": {
+        "id": "selsguEaQkTiTGb50",
+        "name": "Cesson-Sévigné",
+        "color": "gray"
+    },
+    "selz8MJdooDUhlo1K": {
+        "id": "selz8MJdooDUhlo1K",
+        "name": "Villejuif",
+        "color": "greenMedium"
+    },
+    "selr9x6IlFXWDLQ65": {
+        "id": "selr9x6IlFXWDLQ65",
+        "name": "Neuchatel",
+        "color": "orange"
+    },
+    "selDLuEZBENSgcCR8": {
+        "id": "selDLuEZBENSgcCR8",
+        "name": "Martinique",
+        "color": "blue"
+    },
+    "seliEVlZGWqemaLwg": {
+        "id": "seliEVlZGWqemaLwg",
+        "name": "Saint-Claude",
+        "color": "yellowDark"
+    },
+    "selFYMMz04HmWUQi7": {
+        "id": "selFYMMz04HmWUQi7",
+        "name": "BOURGES",
+        "color": "yellowDarker"
+    },
+    "selI3bi4FhTLqfAS3": {
+        "id": "selI3bi4FhTLqfAS3",
+        "name": "Toulon",
+        "color": "yellowDarker"
+    },
+    "selkJcUlouIN0gV7K": {
+        "id": "selkJcUlouIN0gV7K",
+        "name": "Somerville",
+        "color": "blueDarker"
+    },
+    "sel4oUiCGAxUUmLcW": {
+        "id": "sel4oUiCGAxUUmLcW",
+        "name": "PAPEETE",
+        "color": "red"
+    },
+    "selJA51z3bMpx5nWY": {
+        "id": "selJA51z3bMpx5nWY",
+        "name": "San Mateo",
+        "color": "cyanDark"
+    },
+    "selZ7gxtEWevw0IPa": {
+        "id": "selZ7gxtEWevw0IPa",
+        "name": "Grenoble, FRANCE",
+        "color": "yellow"
+    },
+    "selg9QEsssZHUzvfJ": {
+        "id": "selg9QEsssZHUzvfJ",
+        "name": "PERUWELZ",
+        "color": "tealMedium"
+    },
+    "sel2Bfcs8rKFgjsfA": {
+        "id": "sel2Bfcs8rKFgjsfA",
+        "name": "MONTPELLIER",
+        "color": "greenDarker"
+    },
+    "selkMV35hUO9gFfHW": {
+        "id": "selkMV35hUO9gFfHW",
+        "name": "CRAVANCHE",
+        "color": "blue"
+    },
+    "selIMoLjn1hJgwl0n": {
+        "id": "selIMoLjn1hJgwl0n",
+        "name": "Brisbane",
+        "color": "purple"
+    },
+    "selqYzpn18XJagict": {
+        "id": "selqYzpn18XJagict",
+        "name": "BARLIN",
+        "color": "yellow"
+    },
+    "sel4yNuD1ZsjTEpoO": {
+        "id": "sel4yNuD1ZsjTEpoO",
+        "name": "Saint-Beauzire",
+        "color": "redMedium"
+    },
+    "sel4971T8zLNKRw4d": {
+        "id": "sel4971T8zLNKRw4d",
+        "name": "Saint-André-Lez-Lille",
+        "color": "gray"
+    },
+    "selkFMd9VD90lN7Uv": {
+        "id": "selkFMd9VD90lN7Uv",
+        "name": "Hangzhou",
+        "color": "greenMedium"
+    },
+    "selj8BCRfMA0czRMQ": {
+        "id": "selj8BCRfMA0czRMQ",
+        "name": "Strasbourg",
+        "color": "yellow"
+    },
+    "selUJ1WpWAgnG7R1P": {
+        "id": "selUJ1WpWAgnG7R1P",
+        "name": "Levallois-Perret",
+        "color": "cyanDarker"
+    },
+    "selu0EpeAV8zlmktV": {
+        "id": "selu0EpeAV8zlmktV",
+        "name": "CAYENNE",
+        "color": "tealDarker"
+    },
+    "selgNDdcA1SsY6Gqj": {
+        "id": "selgNDdcA1SsY6Gqj",
+        "name": "Halifax",
+        "color": "blueMedium"
+    },
+    "selkZNDlfCzZbD7gl": {
+        "id": "selkZNDlfCzZbD7gl",
+        "name": "istanbul",
+        "color": "red"
+    },
+    "sel90F6Tlz98jqDGk": {
+        "id": "sel90F6Tlz98jqDGk",
+        "name": "Gond-Pontouvre",
+        "color": "tealDark"
+    },
+    "selLVsjpRVNZAWsCF": {
+        "id": "selLVsjpRVNZAWsCF",
+        "name": "Paris & Los Angeles",
+        "color": "blue"
+    },
+    "sela74KvG8ybMIqys": {
+        "id": "sela74KvG8ybMIqys",
+        "name": "QUEBEC",
+        "color": "blueMedium"
+    },
+    "selS7611e9MAEPHxO": {
+        "id": "selS7611e9MAEPHxO",
+        "name": "BIDART",
+        "color": "grayDarker"
+    },
+    "sel5rBtNNcs0f3xj2": {
+        "id": "sel5rBtNNcs0f3xj2",
+        "name": "Mulsanne",
+        "color": "purpleMedium"
+    },
+    "selKw835FSHWapa3p": {
+        "id": "selKw835FSHWapa3p",
+        "name": "Bethune",
+        "color": "redMedium"
+    },
+    "selzWU0dfsT92T22I": {
+        "id": "selzWU0dfsT92T22I",
+        "name": "INCHEON",
+        "color": "orange"
+    },
+    "selMkNUNEW4Rb1skt": {
+        "id": "selMkNUNEW4Rb1skt",
+        "name": "Victoria",
+        "color": "yellowDark"
+    },
+    "selIeMFLo41GO0yKc": {
+        "id": "selIeMFLo41GO0yKc",
+        "name": "MEROUX-MOVAL",
+        "color": "cyanDarker"
+    },
+    "selPqkXcHpUbKxHhk": {
+        "id": "selPqkXcHpUbKxHhk",
+        "name": "Levallois Perret",
+        "color": "pinkDarker"
+    },
+    "sel7wGwGdPayi8oAY": {
+        "id": "sel7wGwGdPayi8oAY",
+        "name": "Châtenoy-En-Bresse",
+        "color": "blue"
+    },
+    "selnJMXz9MXLdNvRa": {
+        "id": "selnJMXz9MXLdNvRa",
+        "name": "Thyez",
+        "color": "orangeMedium"
+    },
+    "selhK2tkZzMavWtWn": {
+        "id": "selhK2tkZzMavWtWn",
+        "name": "Fort-de-France",
+        "color": "redDark"
+    },
+    "selb4Eo4laMAvMP9a": {
+        "id": "selb4Eo4laMAvMP9a",
+        "name": "Mâcon",
+        "color": "pinkDark"
+    },
+    "selSDNymKs2ToKF3E": {
+        "id": "selSDNymKs2ToKF3E",
+        "name": "BEIJING",
+        "color": "blue"
+    },
+    "selUDG2WX9AXyqzZJ": {
+        "id": "selUDG2WX9AXyqzZJ",
+        "name": "Dhaka",
+        "color": "greenMedium"
+    },
+    "selKgVsKDeA3SYVo5": {
+        "id": "selKgVsKDeA3SYVo5",
+        "name": "Kanagawa",
+        "color": "gray"
+    },
+    "selEGo1aw6m0D0ffR": {
+        "id": "selEGo1aw6m0D0ffR",
+        "name": "Le Chesnay",
+        "color": "blue"
+    },
+    "selNQd0NMX9gn5B9P": {
+        "id": "selNQd0NMX9gn5B9P",
+        "name": "San Ramon",
+        "color": "yellowDarker"
+    },
+    "selZ3YUOYOM40GOe8": {
+        "id": "selZ3YUOYOM40GOe8",
+        "name": "Granville",
+        "color": "cyan"
+    },
+    "selTwZUEFgTyhiREM": {
+        "id": "selTwZUEFgTyhiREM",
+        "name": "Béthune",
+        "color": "pinkMedium"
+    },
+    "selPGNYcmfrSTvr3L": {
+        "id": "selPGNYcmfrSTvr3L",
+        "name": "Neuilly sur Seine",
+        "color": "greenDark"
+    },
+    "selAMMrIsAUVj934x": {
+        "id": "selAMMrIsAUVj934x",
+        "name": "AIX EN PROVENCE",
+        "color": "blue"
+    },
+    "selN8Zyf3ULlYS7U9": {
+        "id": "selN8Zyf3ULlYS7U9",
+        "name": "Weiterstadt",
+        "color": "blueDarker"
+    },
+    "seltY5Oa9FN8Y78Yc": {
+        "id": "seltY5Oa9FN8Y78Yc",
+        "name": "Nanterre ",
+        "color": "purpleDarker"
+    },
+    "selrY5IGxBvgUOC6j": {
+        "id": "selrY5IGxBvgUOC6j",
+        "name": "Ferney-Voltaire",
+        "color": "purple"
+    },
+    "seltPBWYtpbWeX2jP": {
+        "id": "seltPBWYtpbWeX2jP",
+        "name": "Saint-Grégoire ",
+        "color": "blue"
+    },
+    "selIsMfGTVEn0LgTr": {
+        "id": "selIsMfGTVEn0LgTr",
+        "name": "Kyiv",
+        "color": "cyanDarker"
+    },
+    "selPPAlzN7vIFGt3J": {
+        "id": "selPPAlzN7vIFGt3J",
+        "name": "Sophia-Antipolis",
+        "color": "greenDark"
+    },
+    "selYbhvyTcuuG8Q4O": {
+        "id": "selYbhvyTcuuG8Q4O",
+        "name": "Neuilly sur seine ",
+        "color": "cyanDarker"
+    },
+    "selLbVymJsdiGheJG": {
+        "id": "selLbVymJsdiGheJG",
+        "name": "Melbourne ",
+        "color": "redMedium"
+    },
+    "selXaQGk2gNDzvAvN": {
+        "id": "selXaQGk2gNDzvAvN",
+        "name": "Milwaukee",
+        "color": "redMedium"
+    },
+    "sellIKWAflcaSdUl5": {
+        "id": "sellIKWAflcaSdUl5",
+        "name": "AGBOVILLE",
+        "color": "blueMedium"
+    },
+    "selE9aJ2GAA2Yn5hy": {
+        "id": "selE9aJ2GAA2Yn5hy",
+        "name": "Austin",
+        "color": "greenDarker"
+    },
+    "selS25MD6nPZ1rDgA": {
+        "id": "selS25MD6nPZ1rDgA",
+        "name": "Wolfisheim",
+        "color": "pinkDarker"
+    },
+    "selpQPCKCRfgGAF8O": {
+        "id": "selpQPCKCRfgGAF8O",
+        "name": "Antananarivo",
+        "color": "red"
+    },
+    "selqdEey9QqFjQGyB": {
+        "id": "selqdEey9QqFjQGyB",
+        "name": "Dakar",
+        "color": "grayDarker"
+    },
+    "selPg93YuJVshSVf2": {
+        "id": "selPg93YuJVshSVf2",
+        "name": "Bourg - en - Bresse",
+        "color": "tealMedium"
+    },
+    "selbppFru4RMAAmx9": {
+        "id": "selbppFru4RMAAmx9",
+        "name": "Steyl",
+        "color": "purpleMedium"
+    },
+    "sel5G3h7JCtuv2DKO": {
+        "id": "sel5G3h7JCtuv2DKO",
+        "name": "Newcastle upon Tyne",
+        "color": "purpleDarker"
+    },
+    "selAwDIiOlwyqAWq3": {
+        "id": "selAwDIiOlwyqAWq3",
+        "name": "Kashiwa, Chiba",
+        "color": "yellow"
+    },
+    "selzpVN79NgdHnsqp": {
+        "id": "selzpVN79NgdHnsqp",
+        "name": "Chasseneuil-Futuroscope",
+        "color": "greenMedium"
+    },
+    "sel4CTfgefnZLweov": {
+        "id": "sel4CTfgefnZLweov",
+        "name": "OUAGADOUGOU",
+        "color": "pink"
+    },
+    "selMLBRKJwcwRoem3": {
+        "id": "selMLBRKJwcwRoem3",
+        "name": "LA PLAINE SAINT-DENIS",
+        "color": "blue"
+    },
+    "sellcPJCIybhLdVPb": {
+        "id": "sellcPJCIybhLdVPb",
+        "name": "BORDEAUX",
+        "color": "greenDark"
+    },
+    "sel9ok92kalgVgN3S": {
+        "id": "sel9ok92kalgVgN3S",
+        "name": "Polytechnique Saclay ",
+        "color": "orangeDarker"
+    },
+    "seldbo4WptqPceenJ": {
+        "id": "seldbo4WptqPceenJ",
+        "name": "Pescara",
+        "color": "greenMedium"
+    },
+    "sel2gjz9pMZXyn5aN": {
+        "id": "sel2gjz9pMZXyn5aN",
+        "name": "Reggio Emilia",
+        "color": "purple"
+    },
+    "selyjGSTM8FoEL53k": {
+        "id": "selyjGSTM8FoEL53k",
+        "name": "Garmisch-Partenkirchen",
+        "color": "blue"
+    },
+    "seldEGEiSWCrSZHva": {
+        "id": "seldEGEiSWCrSZHva",
+        "name": "Karlsruhe",
+        "color": "cyanDark"
+    },
+    "selabyQ3bx0wrg321": {
+        "id": "selabyQ3bx0wrg321",
+        "name": "Torino",
+        "color": "cyan"
+    },
+    "sel1KlYv03BCjnDcy": {
+        "id": "sel1KlYv03BCjnDcy",
+        "name": "Kaiserslautern",
+        "color": "purpleDark"
+    },
+    "selYIuaEGXFVvfD6o": {
+        "id": "selYIuaEGXFVvfD6o",
+        "name": "San Francisco",
+        "color": "pink"
+    },
+    "selF7Df3B2jGMBi4R": {
+        "id": "selF7Df3B2jGMBi4R",
+        "name": "Rome",
+        "color": "orangeDarker"
+    },
+    "selGK6Ip0rfHQl5hq": {
+        "id": "selGK6Ip0rfHQl5hq",
+        "name": "Barra Mansa",
+        "color": "blue"
+    },
+    "selZGldmIMST6ynZK": {
+        "id": "selZGldmIMST6ynZK",
+        "name": "ROUSSON",
+        "color": "orangeMedium"
+    },
+    "seldEAaA35ECry33n": {
+        "id": "seldEAaA35ECry33n",
+        "name": "Saarwellingen",
+        "color": "greenDarker"
+    },
+    "selQEw2rKXHm8fP2P": {
+        "id": "selQEw2rKXHm8fP2P",
+        "name": "Vienna",
+        "color": "tealDarker"
+    },
+    "selzzCCGdQ0MHel5H": {
+        "id": "selzzCCGdQ0MHel5H",
+        "name": "59800",
+        "color": "blueMedium"
+    },
+    "selubhxsPxW0MHq3j": {
+        "id": "selubhxsPxW0MHq3j",
+        "name": "Viersen",
+        "color": "tealMedium"
+    },
+    "selxSYjD6BdBpVVqb": {
+        "id": "selxSYjD6BdBpVVqb",
+        "name": "Talence",
+        "color": "pinkDarker"
+    },
+    "selOqfv0eAs9OUBuY": {
+        "id": "selOqfv0eAs9OUBuY",
+        "name": "Caivano (NA)",
+        "color": "pinkDark"
+    },
+    "sel7LmJii92DIZ73k": {
+        "id": "sel7LmJii92DIZ73k",
+        "name": "Daejeon",
+        "color": "pinkDarker"
+    },
+    "selBA6WylCbq9awFv": {
+        "id": "selBA6WylCbq9awFv",
+        "name": "BEAUREPAIRE",
+        "color": "pinkDark"
+    },
+    "seltsLqmZEwYGnGIT": {
+        "id": "seltsLqmZEwYGnGIT",
+        "name": "Goiânia",
+        "color": "blue"
+    },
+    "seldCewzSZ3zSTkcu": {
+        "id": "seldCewzSZ3zSTkcu",
+        "name": "SAINT-DENIS",
+        "color": "grayMedium"
+    },
+    "selIhMw7RKkzgkZK0": {
+        "id": "selIhMw7RKkzgkZK0",
+        "name": "Venice, Italy",
+        "color": "orangeDark"
+    },
+    "selYmmnSsD0uO2olW": {
+        "id": "selYmmnSsD0uO2olW",
+        "name": "Douala",
+        "color": "gray"
+    },
+    "selPcyKgPgh532BqB": {
+        "id": "selPcyKgPgh532BqB",
+        "name": "ANTONY",
+        "color": "redDark"
+    },
+    "selMWN7kFSqsK4mbm": {
+        "id": "selMWN7kFSqsK4mbm",
+        "name": "Rueil Malmaison",
+        "color": "yellow"
+    },
+    "selLwpkZ9o0KuSyZB": {
+        "id": "selLwpkZ9o0KuSyZB",
+        "name": "Copenhagen",
+        "color": "orangeMedium"
+    },
+    "selWzuKx5DRQEfNe6": {
+        "id": "selWzuKx5DRQEfNe6",
+        "name": "ABIDJAN",
+        "color": "orange"
+    },
+    "selu5ewuavf1UFlhV": {
+        "id": "selu5ewuavf1UFlhV",
+        "name": "Riudellots de La Selva",
+        "color": "pinkMedium"
+    },
+    "selMZujZh1NXKrMtn": {
+        "id": "selMZujZh1NXKrMtn",
+        "name": "Adlington",
+        "color": "cyanDark"
+    },
+    "selaihdf4pgsxoIXG": {
+        "id": "selaihdf4pgsxoIXG",
+        "name": "Berlin",
+        "color": "orange"
+    },
+    "selcW3yPxwBjerqdE": {
+        "id": "selcW3yPxwBjerqdE",
+        "name": "Mannheim",
+        "color": "tealDark"
+    },
+    "sel91YsNLYhEU84Lm": {
+        "id": "sel91YsNLYhEU84Lm",
+        "name": "Béziers",
+        "color": "tealMedium"
+    },
+    "selvg1gJK4r3Gfnwp": {
+        "id": "selvg1gJK4r3Gfnwp",
+        "name": "Illkirch-Graffenstaden",
+        "color": "orangeDarker"
+    },
+    "selwXAR87C57QRxEl": {
+        "id": "selwXAR87C57QRxEl",
+        "name": "408, 99, Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea",
+        "color": "pink"
+    },
+    "selSb7UCZLfjiPUG1": {
+        "id": "selSb7UCZLfjiPUG1",
+        "name": "Milan",
+        "color": "orangeMedium"
+    },
+    "selrkzoz6MHdbpq1J": {
+        "id": "selrkzoz6MHdbpq1J",
+        "name": "Dover",
+        "color": "redDark"
+    },
+    "selFuyl2P7pbMEuD9": {
+        "id": "selFuyl2P7pbMEuD9",
+        "name": "Pessac",
+        "color": "purpleMedium"
+    },
+    "selp2Hy4JpWAt895O": {
+        "id": "selp2Hy4JpWAt895O",
+        "name": "Abidjan",
+        "color": "red"
+    },
+    "selvVOoxmWUtzI7PX": {
+        "id": "selvVOoxmWUtzI7PX",
+        "name": "Saint paul",
+        "color": "cyanMedium"
+    },
+    "selngpYlDsxOBFGGH": {
+        "id": "selngpYlDsxOBFGGH",
+        "name": "Bochum",
+        "color": "blue"
+    },
+    "selBiZrJ8shWPMwtp": {
+        "id": "selBiZrJ8shWPMwtp",
+        "name": "MINATO-KU,TOKYO",
+        "color": "pinkDarker"
+    },
+    "selIWYd8jiI4U5Z6n": {
+        "id": "selIWYd8jiI4U5Z6n",
+        "name": "STRASBOURG",
+        "color": "blue"
+    },
+    "selAPCtcZTv0Qw7cz": {
+        "id": "selAPCtcZTv0Qw7cz",
+        "name": "Duesseldorf",
+        "color": "red"
+    },
+    "selEtMiqEY71oIUkp": {
+        "id": "selEtMiqEY71oIUkp",
+        "name": "London, New York",
+        "color": "blue"
+    },
+    "sel2Y4fWQVi0j7YKC": {
+        "id": "sel2Y4fWQVi0j7YKC",
+        "name": "Chaumont",
+        "color": "orangeDark"
+    },
+    "selJ4pgu03KeDf706": {
+        "id": "selJ4pgu03KeDf706",
+        "name": "Hamburg",
+        "color": "tealMedium"
+    },
+    "selUs9zHL0u6nzbvY": {
+        "id": "selUs9zHL0u6nzbvY",
+        "name": "Breda",
+        "color": "blue"
+    },
+    "selIsndxUrpHavMMV": {
+        "id": "selIsndxUrpHavMMV",
+        "name": "EVRY",
+        "color": "yellow"
+    },
+    "selhgCbRzcWH4kQSt": {
+        "id": "selhgCbRzcWH4kQSt",
+        "name": "Paris Saclay",
+        "color": "redDarker"
+    },
+    "selYiFKrBiNiXGG7S": {
+        "id": "selYiFKrBiNiXGG7S",
+        "name": "Limoges",
+        "color": "pinkDarker"
+    },
+    "selWM8UK4PPl8goPS": {
+        "id": "selWM8UK4PPl8goPS",
+        "name": "Paris (75)",
+        "color": "blue"
+    },
+    "selO8wW4IicFhGNdm": {
+        "id": "selO8wW4IicFhGNdm",
+        "name": "Vanves",
+        "color": "redMedium"
+    },
+    "selCfxPfHZ46Xs7ei": {
+        "id": "selCfxPfHZ46Xs7ei",
+        "name": "LES SABLES D'OLONNE",
+        "color": "redDark"
+    },
+    "selEIJsazrEqK10xL": {
+        "id": "selEIJsazrEqK10xL",
+        "name": "Trois Bassins",
+        "color": "grayMedium"
+    },
+    "sel7Gde9Rcf6MzQm5": {
+        "id": "sel7Gde9Rcf6MzQm5",
+        "name": "Ivry sur Seine",
+        "color": "greenMedium"
+    },
+    "selcNTPZh0jmPoPp2": {
+        "id": "selcNTPZh0jmPoPp2",
+        "name": "LA CIOTAT",
+        "color": "cyanDark"
+    },
+    "sel05ElmRtMpLZ2xP": {
+        "id": "sel05ElmRtMpLZ2xP",
+        "name": "LANNION",
+        "color": "redDark"
+    },
+    "selmyoJf786XnDvBK": {
+        "id": "selmyoJf786XnDvBK",
+        "name": "TAMPERE",
+        "color": "teal"
+    },
+    "selA5RwPBNYAa1jn9": {
+        "id": "selA5RwPBNYAa1jn9",
+        "name": "Comines",
+        "color": "tealMedium"
+    },
+    "selBjLU2suFul3jDS": {
+        "id": "selBjLU2suFul3jDS",
+        "name": "Foligno",
+        "color": "grayDarker"
+    },
+    "seli9BLkQdbAaWE92": {
+        "id": "seli9BLkQdbAaWE92",
+        "name": "Rouen",
+        "color": "orangeMedium"
+    },
+    "selFL9Di9JnDi2Rwl": {
+        "id": "selFL9Di9JnDi2Rwl",
+        "name": "Augsburg",
+        "color": "purpleDark"
+    },
+    "selpO51JEO1pIXC2G": {
+        "id": "selpO51JEO1pIXC2G",
+        "name": "Wakayama",
+        "color": "greenMedium"
+    },
+    "selkOzbkg9uFtVqOr": {
+        "id": "selkOzbkg9uFtVqOr",
+        "name": "Ajaccio",
+        "color": "blueDark"
+    },
+    "seltUagIApTEIL1LP": {
+        "id": "seltUagIApTEIL1LP",
+        "name": "Sainte Clotilde",
+        "color": "yellow"
+    },
+    "selHa1hxpgp0mcJgz": {
+        "id": "selHa1hxpgp0mcJgz",
+        "name": "Edern",
+        "color": "yellowDarker"
+    },
+    "selMAB8MhlxSyV3xZ": {
+        "id": "selMAB8MhlxSyV3xZ",
+        "name": "PIERREFONDS",
+        "color": "redMedium"
+    },
+    "selyDXiwrOQFgIPDP": {
+        "id": "selyDXiwrOQFgIPDP",
+        "name": "Morioka, Iwate",
+        "color": "purpleDark"
+    },
+    "selrm33gFTBzYYkX8": {
+        "id": "selrm33gFTBzYYkX8",
+        "name": "Yerres",
+        "color": "pinkMedium"
+    },
+    "seldnY3dO9QEXS2bQ": {
+        "id": "seldnY3dO9QEXS2bQ",
+        "name": "AMIENS",
+        "color": "blueMedium"
+    },
+    "seljACsfXHzIEF2cP": {
+        "id": "seljACsfXHzIEF2cP",
+        "name": "ROUBAIX",
+        "color": "grayMedium"
+    },
+    "sel59QhiJM1SlCjwe": {
+        "id": "sel59QhiJM1SlCjwe",
+        "name": "CHARTRES DE BRETAGNE",
+        "color": "cyan"
+    },
+    "selZvFQSVYcK0E2zt": {
+        "id": "selZvFQSVYcK0E2zt",
+        "name": "Mainz",
+        "color": "cyanDarker"
+    },
+    "sele6hvlsm5BOrg4X": {
+        "id": "sele6hvlsm5BOrg4X",
+        "name": "Rivne",
+        "color": "tealDarker"
+    },
+    "selheddOGnbTT8GKe": {
+        "id": "selheddOGnbTT8GKe",
+        "name": "Casablanca",
+        "color": "grayMedium"
+    },
+    "selGE3RlwpNomoyVb": {
+        "id": "selGE3RlwpNomoyVb",
+        "name": "Brescia",
+        "color": "yellowDarker"
+    },
+    "selBjQjoZ1dADYKVB": {
+        "id": "selBjQjoZ1dADYKVB",
+        "name": "Annecy",
+        "color": "teal"
+    },
+    "selJaIMt3CZhZriKT": {
+        "id": "selJaIMt3CZhZriKT",
+        "name": "IVREA",
+        "color": "orangeMedium"
+    },
+    "sel8FyqS2kfIW4FMc": {
+        "id": "sel8FyqS2kfIW4FMc",
+        "name": "Tokyo, Shibuya-ku",
+        "color": "blue"
+    },
+    "selyAYjPWopeMJUAY": {
+        "id": "selyAYjPWopeMJUAY",
+        "name": "Yamoussoukro ",
+        "color": "tealMedium"
+    },
+    "selNcSFyL6egZ3eg0": {
+        "id": "selNcSFyL6egZ3eg0",
+        "name": "Kobe",
+        "color": "yellowMedium"
+    },
+    "sel9hnp6syfXeHMX5": {
+        "id": "sel9hnp6syfXeHMX5",
+        "name": "Amman",
+        "color": "orangeDark"
+    },
+    "selYT8a3hyhze9505": {
+        "id": "selYT8a3hyhze9505",
+        "name": "Paris, France",
+        "color": "orangeDarker"
+    },
+    "selSUOCUgr6Cz7qPj": {
+        "id": "selSUOCUgr6Cz7qPj",
+        "name": "Milano",
+        "color": "orangeDark"
+    },
+    "selkZFetlo2nscRTM": {
+        "id": "selkZFetlo2nscRTM",
+        "name": "Osaka-city",
+        "color": "blueMedium"
+    },
+    "selBRKhiBr2X691QL": {
+        "id": "selBRKhiBr2X691QL",
+        "name": "São Paulo",
+        "color": "cyan"
+    },
+    "sel9Uth28UcjX1vWa": {
+        "id": "sel9Uth28UcjX1vWa",
+        "name": "Erbil",
+        "color": "orangeDarker"
+    },
+    "selZXKymL6JVppqvR": {
+        "id": "selZXKymL6JVppqvR",
+        "name": "St Herblain",
+        "color": "grayDarker"
+    },
+    "sel56qaANwEMsY667": {
+        "id": "sel56qaANwEMsY667",
+        "name": "douai",
+        "color": "redDarker"
+    },
+    "sel4kwKyqNC9yvvDG": {
+        "id": "sel4kwKyqNC9yvvDG",
+        "name": "Ozoir-la-Ferrière",
+        "color": "blueMedium"
+    },
+    "sel84dnOvNxwDhA1L": {
+        "id": "sel84dnOvNxwDhA1L",
+        "name": "Kleinmachnow",
+        "color": "orangeDark"
+    },
+    "selC6xNYBSeKpGWGU": {
+        "id": "selC6xNYBSeKpGWGU",
+        "name": "Saint Paul en Jarez",
+        "color": "purpleDark"
+    },
+    "selzMDeOlheT8TPvG": {
+        "id": "selzMDeOlheT8TPvG",
+        "name": "Saint Grégoire",
+        "color": "yellowMedium"
+    },
+    "selTD6UE0piKepvKw": {
+        "id": "selTD6UE0piKepvKw",
+        "name": "Cergy",
+        "color": "grayMedium"
+    },
+    "selTHHY6fL53FqPOk": {
+        "id": "selTHHY6fL53FqPOk",
+        "name": "Helmond",
+        "color": "blueDarker"
+    },
+    "seleUFNKAOMYSMLxs": {
+        "id": "seleUFNKAOMYSMLxs",
+        "name": "Les Ulis",
+        "color": "purple"
+    },
+    "selHtOPc8Kbh7XQOu": {
+        "id": "selHtOPc8Kbh7XQOu",
+        "name": "Leiria",
+        "color": "greenDark"
+    },
+    "selYEDg9e6hmE7MAH": {
+        "id": "selYEDg9e6hmE7MAH",
+        "name": "VILLIERS SUR MARNE",
+        "color": "pinkDarker"
+    },
+    "sel3geRtZ0ZrIGspv": {
+        "id": "sel3geRtZ0ZrIGspv",
+        "name": "Coventry",
+        "color": "yellowDarker"
+    },
+    "selCbbX0W6eevKioB": {
+        "id": "selCbbX0W6eevKioB",
+        "name": "Oberhaching (Munich)",
+        "color": "orange"
+    },
+    "selqgPZh7P5bwApDg": {
+        "id": "selqgPZh7P5bwApDg",
+        "name": "Lviv, Ukraine",
+        "color": "pinkDark"
+    },
+    "selRILQqc1bkNzvMX": {
+        "id": "selRILQqc1bkNzvMX",
+        "name": "Saarbruecken",
+        "color": "orangeMedium"
+    },
+    "selWJAXQNHhO8ewHL": {
+        "id": "selWJAXQNHhO8ewHL",
+        "name": "VENISSIEUX",
+        "color": "cyanDarker"
+    },
+    "sel5svRDEfuymuX5t": {
+        "id": "sel5svRDEfuymuX5t",
+        "name": "SANT'EGIDIO DEL MONTE ALBINO (SA), ITALY",
+        "color": "blue"
+    },
+    "seld2l87jimA9oroj": {
+        "id": "seld2l87jimA9oroj",
+        "name": "Southgate MI",
+        "color": "blue"
+    },
+    "selhNr3OcCpreC8RK": {
+        "id": "selhNr3OcCpreC8RK",
+        "name": "Cachan",
+        "color": "grayDarker"
+    },
+    "sel29bV2wAdCpeoFD": {
+        "id": "sel29bV2wAdCpeoFD",
+        "name": "PARIS 13",
+        "color": "orangeMedium"
+    },
+    "selqVXbAT2DonKPJ8": {
+        "id": "selqVXbAT2DonKPJ8",
+        "name": "Potsdam",
+        "color": "green"
+    },
+    "selaFXQKna8wVgaD3": {
+        "id": "selaFXQKna8wVgaD3",
+        "name": "Andria",
+        "color": "tealDark"
+    },
+    "seluCmFYn0MbrqOxy": {
+        "id": "seluCmFYn0MbrqOxy",
+        "name": "Vénissieux",
+        "color": "teal"
+    },
+    "sellSXE8qAVXuhAGu": {
+        "id": "sellSXE8qAVXuhAGu",
+        "name": "Barraux",
+        "color": "blue"
+    },
+    "selllq2zaY3m2Tjuc": {
+        "id": "selllq2zaY3m2Tjuc",
+        "name": "PALAISEAU",
+        "color": "purpleMedium"
+    },
+    "seloztQEfgRNmgmQF": {
+        "id": "seloztQEfgRNmgmQF",
+        "name": "Bondy",
+        "color": "blue"
+    },
+    "selhFvxmcymC4CofA": {
+        "id": "selhFvxmcymC4CofA",
+        "name": "Saint Paul",
+        "color": "orangeDarker"
+    },
+    "selP8O5b9xDlekfNs": {
+        "id": "selP8O5b9xDlekfNs",
+        "name": "Bologna",
+        "color": "pinkMedium"
+    },
+    "selbArohRSIGYkHDM": {
+        "id": "selbArohRSIGYkHDM",
+        "name": "Edinburgh",
+        "color": "purpleDarker"
+    },
+    "selNH8B9g3nvFdlNh": {
+        "id": "selNH8B9g3nvFdlNh",
+        "name": "Gennevilliers",
+        "color": "yellowDark"
+    },
+    "selVnurxNmUi8xj2H": {
+        "id": "selVnurxNmUi8xj2H",
+        "name": "Dossenheim",
+        "color": "cyan"
+    },
+    "selPrrwhyjyHE3aGn": {
+        "id": "selPrrwhyjyHE3aGn",
+        "name": "Susville",
+        "color": "yellowMedium"
+    },
+    "selIItQma18ZQJdUe": {
+        "id": "selIItQma18ZQJdUe",
+        "name": "Lutry",
+        "color": "orangeDarker"
+    },
+    "selBaOEf2DVxN2UFF": {
+        "id": "selBaOEf2DVxN2UFF",
+        "name": "Sheridan",
+        "color": "orange"
+    },
+    "selJrYd4EVfOGDOIM": {
+        "id": "selJrYd4EVfOGDOIM",
+        "name": "Nogent-sur-Marne",
+        "color": "blue"
+    },
+    "sel9MwvRXxVoLH7Gl": {
+        "id": "sel9MwvRXxVoLH7Gl",
+        "name": "Manchester",
+        "color": "greenDarker"
+    },
+    "selIlrgvIH8fsDn52": {
+        "id": "selIlrgvIH8fsDn52",
+        "name": "1209 N Orange Street, Wilmington, Delaware",
+        "color": "blueDarker"
+    },
+    "sel8Ake8a0SHiMyFp": {
+        "id": "sel8Ake8a0SHiMyFp",
+        "name": "Gentilly",
+        "color": "cyan"
+    },
+    "selMS0bMKGPWG0o6x": {
+        "id": "selMS0bMKGPWG0o6x",
+        "name": "MOUVAUX",
+        "color": "grayDarker"
+    },
+    "selDQ78MQ5MKsIst1": {
+        "id": "selDQ78MQ5MKsIst1",
+        "name": "Toulouse & Paris",
+        "color": "red"
+    },
+    "selM9YcAHls8wj9xO": {
+        "id": "selM9YcAHls8wj9xO",
+        "name": "Bunkyo-ku, Tokyo",
+        "color": "orangeDark"
+    },
+    "selvJejCrIqRzZl75": {
+        "id": "selvJejCrIqRzZl75",
+        "name": "Osaka ",
+        "color": "purpleMedium"
+    },
+    "selodc606QWsiZk9S": {
+        "id": "selodc606QWsiZk9S",
+        "name": "Avignon",
+        "color": "cyan"
+    },
+    "selDKnWnloF9fGA3O": {
+        "id": "selDKnWnloF9fGA3O",
+        "name": "Kolkata",
+        "color": "purpleDarker"
+    },
+    "selFNacf6jjfoucZS": {
+        "id": "selFNacf6jjfoucZS",
+        "name": "CHATILLON",
+        "color": "blueMedium"
+    },
+    "selnCESwGfgCpvvce": {
+        "id": "selnCESwGfgCpvvce",
+        "name": "PARIS 08",
+        "color": "grayDark"
+    },
+    "selslYP2wcIjxWtFv": {
+        "id": "selslYP2wcIjxWtFv",
+        "name": "Bourg la Reine",
+        "color": "purpleDark"
+    },
+    "selxg0FL2enpHeyoW": {
+        "id": "selxg0FL2enpHeyoW",
+        "name": "Bourg-la-Reine",
+        "color": "blue"
+    },
+    "selrJnKLFe6SyOUKj": {
+        "id": "selrJnKLFe6SyOUKj",
+        "name": "Cappelle en Pévèle",
+        "color": "tealDark"
+    },
+    "selpcGrmIvqDQd4ll": {
+        "id": "selpcGrmIvqDQd4ll",
+        "name": "Siena",
+        "color": "greenDark"
+    },
+    "seluXOjJyntvj8CoN": {
+        "id": "seluXOjJyntvj8CoN",
+        "name": "St Pierre Langers",
+        "color": "blue"
+    },
+    "selDrLJ1Vin23xXiz": {
+        "id": "selDrLJ1Vin23xXiz",
+        "name": "Kyiv & Paris",
+        "color": "purpleDark"
+    },
+    "sel0DxRbgmWuHNPDd": {
+        "id": "sel0DxRbgmWuHNPDd",
+        "name": "Odesa",
+        "color": "greenDarker"
+    },
+    "selc70si8SF6lw3k9": {
+        "id": "selc70si8SF6lw3k9",
+        "name": "Montrouge",
+        "color": "yellowMedium"
+    },
+    "selV0sT7QQaV86Vo9": {
+        "id": "selV0sT7QQaV86Vo9",
+        "name": "Shanghai",
+        "color": "tealDarker"
+    },
+    "selMtiAEcTAd9vOa8": {
+        "id": "selMtiAEcTAd9vOa8",
+        "name": "Seyssins",
+        "color": "orange"
+    },
+    "selFjRsJFJj44sk9p": {
+        "id": "selFjRsJFJj44sk9p",
+        "name": "Winterthur",
+        "color": "pinkDark"
+    },
+    "selsRUrzwyTrH3xty": {
+        "id": "selsRUrzwyTrH3xty",
+        "name": "DubaÏ",
+        "color": "tealDarker"
+    },
+    "seljgbRKQnOBg4UB7": {
+        "id": "seljgbRKQnOBg4UB7",
+        "name": "Chavenay",
+        "color": "greenDark"
+    },
+    "selTeYjgd6FLV95WG": {
+        "id": "selTeYjgd6FLV95WG",
+        "name": "Clermont-Ferrand",
+        "color": "redMedium"
+    },
+    "selQd1UQURLIT0zNw": {
+        "id": "selQd1UQURLIT0zNw",
+        "name": "Neuilly Sur Seine",
+        "color": "purpleDark"
+    },
+    "selcG8M9wAlI1FNo9": {
+        "id": "selcG8M9wAlI1FNo9",
+        "name": "Beirut",
+        "color": "redDarker"
+    },
+    "selDgWdC9YP1NlBa4": {
+        "id": "selDgWdC9YP1NlBa4",
+        "name": "Daejeon-si",
+        "color": "grayDark"
+    },
+    "selYVcmnzGGZH24pF": {
+        "id": "selYVcmnzGGZH24pF",
+        "name": "Biguglia",
+        "color": "cyanDark"
+    },
+    "selP9L7eAuqoulmFb": {
+        "id": "selP9L7eAuqoulmFb",
+        "name": "69100",
+        "color": "blue"
+    },
+    "selyUUF4dUlR539tH": {
+        "id": "selyUUF4dUlR539tH",
+        "name": "Aichi pref",
+        "color": "blueDark"
+    },
+    "selmFBnT0D1tWAONB": {
+        "id": "selmFBnT0D1tWAONB",
+        "name": "Sibiu",
+        "color": "yellowDark"
+    },
+    "selm1s2L0TZ1x32U1": {
+        "id": "selm1s2L0TZ1x32U1",
+        "name": "San Vito dei Normanni",
+        "color": "gray"
+    },
+    "selcZwemZVSj0bYtj": {
+        "id": "selcZwemZVSj0bYtj",
+        "name": "FRANCE",
+        "color": "blue"
+    },
+    "selEqGoFmthkQONNj": {
+        "id": "selEqGoFmthkQONNj",
+        "name": "Mauer",
+        "color": "cyanDarker"
+    },
+    "selTTkgZsk2N90S7q": {
+        "id": "selTTkgZsk2N90S7q",
+        "name": "Auckland",
+        "color": "grayMedium"
+    },
+    "selDyElaF21ZfRL3i": {
+        "id": "selDyElaF21ZfRL3i",
+        "name": "TOKYO",
+        "color": "tealDark"
+    },
+    "seld6IW3iIX7IbU2a": {
+        "id": "seld6IW3iIX7IbU2a",
+        "name": "Moirans",
+        "color": "purple"
+    },
+    "selTDbGi3Wy2gDI6F": {
+        "id": "selTDbGi3Wy2gDI6F",
+        "name": "Onna-son",
+        "color": "yellowDark"
+    },
+    "seljkCGb0Bz0kLqQx": {
+        "id": "seljkCGb0Bz0kLqQx",
+        "name": "LE PERREUX SUR MARNE",
+        "color": "blueDark"
+    },
+    "seldujeleK6RJ3mQh": {
+        "id": "seldujeleK6RJ3mQh",
+        "name": "Bastia",
+        "color": "tealDarker"
+    },
+    "seljTSCUzQmnXN7aa": {
+        "id": "seljTSCUzQmnXN7aa",
+        "name": "Chichaoua",
+        "color": "tealDark"
+    },
+    "selYysyCVaT4bbFg8": {
+        "id": "selYysyCVaT4bbFg8",
+        "name": "Amsterdam",
+        "color": "blue"
+    },
+    "selUbgfTou0OYzdYQ": {
+        "id": "selUbgfTou0OYzdYQ",
+        "name": "Nairobi",
+        "color": "cyanDark"
+    },
+    "selS1MSRYfcyT2LNh": {
+        "id": "selS1MSRYfcyT2LNh",
+        "name": "Caserta",
+        "color": "red"
+    },
+    "selOmcPaJZ8bCNHkz": {
+        "id": "selOmcPaJZ8bCNHkz",
+        "name": "Auckland, New Zealand",
+        "color": "cyanDark"
+    },
+    "sel2Q03Bkyw1RZo56": {
+        "id": "sel2Q03Bkyw1RZo56",
+        "name": "Kharkiv",
+        "color": "yellowDarker"
+    },
+    "selTGHmuPLsYJxX4A": {
+        "id": "selTGHmuPLsYJxX4A",
+        "name": "Vilnius",
+        "color": "green"
+    },
+    "selBuIsMxz0wsW2Y1": {
+        "id": "selBuIsMxz0wsW2Y1",
+        "name": "EHIME",
+        "color": "pinkDark"
+    },
+    "seld11MLjoX74ecZm": {
+        "id": "seld11MLjoX74ecZm",
+        "name": "AJACCIO",
+        "color": "pinkDark"
+    },
+    "seljLmE0UERzWxm47": {
+        "id": "seljLmE0UERzWxm47",
+        "name": "Seongdong-gu",
+        "color": "cyanMedium"
+    },
+    "selPZYeETrSXsfOxh": {
+        "id": "selPZYeETrSXsfOxh",
+        "name": "Dortmund",
+        "color": "tealMedium"
+    },
+    "selz1HZO2EZ21hb3E": {
+        "id": "selz1HZO2EZ21hb3E",
+        "name": "La Ciotat",
+        "color": "cyan"
+    },
+    "seluLBdF7pe4V0FVy": {
+        "id": "seluLBdF7pe4V0FVy",
+        "name": "Bellevue WA",
+        "color": "cyanMedium"
+    },
+    "sel9WD7NTXW3VlX5w": {
+        "id": "sel9WD7NTXW3VlX5w",
+        "name": "Saint Germain en Laye",
+        "color": "grayDark"
+    },
+    "selX8d4u7mQdusMAV": {
+        "id": "selX8d4u7mQdusMAV",
+        "name": "Unterschleißheim",
+        "color": "pinkDarker"
+    },
+    "selsslfzhPR82C79Z": {
+        "id": "selsslfzhPR82C79Z",
+        "name": "BONDUES",
+        "color": "yellow"
+    },
+    "selvRp1TGTksPAa2C": {
+        "id": "selvRp1TGTksPAa2C",
+        "name": "Blagnac",
+        "color": "yellowMedium"
+    },
+    "selSJvVHB7OStEzO1": {
+        "id": "selSJvVHB7OStEzO1",
+        "name": "Bamako",
+        "color": "purpleDark"
+    },
+    "selIPTzhl04MVDAM4": {
+        "id": "selIPTzhl04MVDAM4",
+        "name": "São Paulo, Brazil",
+        "color": "teal"
+    },
+    "selW120gi2ntRSZDO": {
+        "id": "selW120gi2ntRSZDO",
+        "name": "Rungis",
+        "color": "redDark"
+    },
+    "selNBgdUbFTt57po2": {
+        "id": "selNBgdUbFTt57po2",
+        "name": "Daegu",
+        "color": "yellowDarker"
+    },
+    "selUtbA87vb6hyMpe": {
+        "id": "selUtbA87vb6hyMpe",
+        "name": "seoul",
+        "color": "yellowDark"
+    },
+    "selbUoX0rAGWJxYG7": {
+        "id": "selbUoX0rAGWJxYG7",
+        "name": "ISTANBUL",
+        "color": "yellow"
+    },
+    "seljm4ksogHIn49sy": {
+        "id": "seljm4ksogHIn49sy",
+        "name": "Vierzon",
+        "color": "greenDark"
+    },
+    "selH5eb9hDLuVI1ZG": {
+        "id": "selH5eb9hDLuVI1ZG",
+        "name": "Aix en Provence",
+        "color": "pinkDarker"
+    },
+    "seligMRGDrEXPThtU": {
+        "id": "seligMRGDrEXPThtU",
+        "name": "LAVAL",
+        "color": "red"
+    },
+    "selIJ9vKD059CY9mM": {
+        "id": "selIJ9vKD059CY9mM",
+        "name": "Wavres",
+        "color": "blueDark"
+    },
+    "selukstxylxlDrLmE": {
+        "id": "selukstxylxlDrLmE",
+        "name": "Meyreuil",
+        "color": "blue"
+    },
+    "sellu9R4yeyokvLBV": {
+        "id": "sellu9R4yeyokvLBV",
+        "name": "Ibaraki",
+        "color": "greenDarker"
+    },
+    "sel57Z10bLnq5DsEM": {
+        "id": "sel57Z10bLnq5DsEM",
+        "name": "Wadgassen",
+        "color": "redMedium"
+    },
+    "selSnTPopZUQDSE1v": {
+        "id": "selSnTPopZUQDSE1v",
+        "name": "Saint Julien en Genevois",
+        "color": "blue"
+    },
+    "selgBQC3tyDNtnok0": {
+        "id": "selgBQC3tyDNtnok0",
+        "name": "Aix-Marseille",
+        "color": "teal"
+    },
+    "selvSI4Q5s7xZg1Ea": {
+        "id": "selvSI4Q5s7xZg1Ea",
+        "name": "Fribourg",
+        "color": "redMedium"
+    },
+    "selHibF6ePzdNeVHh": {
+        "id": "selHibF6ePzdNeVHh",
+        "name": "Compiègne",
+        "color": "orangeDark"
+    },
+    "selA7NiafsT4WJqs4": {
+        "id": "selA7NiafsT4WJqs4",
+        "name": "ISNES",
+        "color": "gray"
+    },
+    "selerTRDPUFpAbrF3": {
+        "id": "selerTRDPUFpAbrF3",
+        "name": "ECULLY",
+        "color": "blue"
+    },
+    "selFCOhjl15RmvMET": {
+        "id": "selFCOhjl15RmvMET",
+        "name": "Kyoto",
+        "color": "redMedium"
+    },
+    "selDVeKgj3ut46ECw": {
+        "id": "selDVeKgj3ut46ECw",
+        "name": "Saint Martin d'Hères",
+        "color": "orangeMedium"
+    },
+    "selTbI4ea5RYfBGgf": {
+        "id": "selTbI4ea5RYfBGgf",
+        "name": "blanzat",
+        "color": "greenDark"
+    },
+    "selTwSIcbVtggRHDf": {
+        "id": "selTwSIcbVtggRHDf",
+        "name": "Nancy",
+        "color": "blue"
+    },
+    "selGe3PKc0pd1ZRQy": {
+        "id": "selGe3PKc0pd1ZRQy",
+        "name": "Avrillé",
+        "color": "redDarker"
+    },
+    "selIRVPfIT28WT75v": {
+        "id": "selIRVPfIT28WT75v",
+        "name": "montigny le bretonneux",
+        "color": "teal"
+    },
+    "selEEScG7PMttCeKO": {
+        "id": "selEEScG7PMttCeKO",
+        "name": "Saint-Quentin",
+        "color": "teal"
+    },
+    "selarwuYMHjuuxvAm": {
+        "id": "selarwuYMHjuuxvAm",
+        "name": "COURCELLES-LES-LENS",
+        "color": "redDark"
+    },
+    "seleEt5ljHY11D43A": {
+        "id": "seleEt5ljHY11D43A",
+        "name": "Villebon sur Yvette",
+        "color": "blueMedium"
+    },
+    "selOrKlEmQTWaFMwe": {
+        "id": "selOrKlEmQTWaFMwe",
+        "name": "Cluj-Napoca",
+        "color": "blue"
+    },
+    "selR2RcytMKpLIpR6": {
+        "id": "selR2RcytMKpLIpR6",
+        "name": "Roubaix",
+        "color": "purpleDarker"
+    },
+    "selGYbNaEchcAqRy0": {
+        "id": "selGYbNaEchcAqRy0",
+        "name": "Braga",
+        "color": "cyanDarker"
+    },
+    "selFdh1airaLdNIkN": {
+        "id": "selFdh1airaLdNIkN",
+        "name": "Solaize",
+        "color": "greenDark"
+    },
+    "sellUSUPTGQ3OUvUd": {
+        "id": "sellUSUPTGQ3OUvUd",
+        "name": "Argences",
+        "color": "blue"
+    },
+    "sellRwoelBnw5DbCo": {
+        "id": "sellRwoelBnw5DbCo",
+        "name": "Carpiquet",
+        "color": "blue"
+    },
+    "selKv7EK5LjXw4w8W": {
+        "id": "selKv7EK5LjXw4w8W",
+        "name": "Noisiel",
+        "color": "blue"
+    },
+    "selGND9L1XBUZx0Dw": {
+        "id": "selGND9L1XBUZx0Dw",
+        "name": "Prague",
+        "color": "blueDark"
+    },
+    "selKDGrY5NMpZl8Da": {
+        "id": "selKDGrY5NMpZl8Da",
+        "name": "Bry-sur-Marne",
+        "color": "blue"
+    },
+    "selrDkX2wIPOYKswU": {
+        "id": "selrDkX2wIPOYKswU",
+        "name": "PUTEAUX",
+        "color": "blue"
+    },
+    "selUregP4ZX9ciyAk": {
+        "id": "selUregP4ZX9ciyAk",
+        "name": "Chambéry",
+        "color": "blue"
+    },
+    "selhfvSZPgyPfjYM1": {
+        "id": "selhfvSZPgyPfjYM1",
+        "name": "Cape Town",
+        "color": "tealDark"
+    },
+    "selY6p9JBuMODvMUJ": {
+        "id": "selY6p9JBuMODvMUJ",
+        "name": "Bois d'Arcy",
+        "color": "tealMedium"
+    },
+    "sel6U3Sh9oCsvT3sV": {
+        "id": "sel6U3Sh9oCsvT3sV",
+        "name": "Espoo",
+        "color": "blueDark"
+    },
+    "selJAwtHH2Y0rue3l": {
+        "id": "selJAwtHH2Y0rue3l",
+        "name": "Enschede",
+        "color": "cyanMedium"
+    },
+    "selMXV5DlbWXavdRF": {
+        "id": "selMXV5DlbWXavdRF",
+        "name": "LYON 02",
+        "color": "blue"
+    },
+    "selORk5iIoY92b4Ff": {
+        "id": "selORk5iIoY92b4Ff",
+        "name": "Besançon",
+        "color": "pink"
+    },
+    "selrNOPcafbuoDulk": {
+        "id": "selrNOPcafbuoDulk",
+        "name": "Sèvres",
+        "color": "cyanDarker"
+    },
+    "selhG0DoGfAqxZXvK": {
+        "id": "selhG0DoGfAqxZXvK",
+        "name": "Angouleme",
+        "color": "blue"
+    },
+    "seleLIzGmCA7zroes": {
+        "id": "seleLIzGmCA7zroes",
+        "name": "BASTIA ",
+        "color": "redDarker"
+    },
+    "selGceYNzh0b9lsl9": {
+        "id": "selGceYNzh0b9lsl9",
+        "name": "MONTREUIL",
+        "color": "redDarker"
+    },
+    "sel7G5KJN3H4jz3il": {
+        "id": "sel7G5KJN3H4jz3il",
+        "name": "Houston, TX",
+        "color": "blue"
+    },
+    "sel4RykaXnSp8VNae": {
+        "id": "sel4RykaXnSp8VNae",
+        "name": "SAINT REMY les CHEVREUSE",
+        "color": "tealDark"
+    },
+    "selJCIkytBqJL0PLq": {
+        "id": "selJCIkytBqJL0PLq",
+        "name": "Châtillon",
+        "color": "purpleDarker"
+    },
+    "sel1IzVHFC0xn1Vl1": {
+        "id": "sel1IzVHFC0xn1Vl1",
+        "name": "ASNIERES SUR SEINE",
+        "color": "blue"
+    },
+    "selb4eM7DbPYdvPiB": {
+        "id": "selb4eM7DbPYdvPiB",
+        "name": "Roma",
+        "color": "blueDark"
+    },
+    "selEYio7cyOLyKdDH": {
+        "id": "selEYio7cyOLyKdDH",
+        "name": "Vernouillet",
+        "color": "cyanDarker"
+    },
+    "selpAUDEZlUSzkj4X": {
+        "id": "selpAUDEZlUSzkj4X",
+        "name": "Lisbon",
+        "color": "red"
+    },
+    "selTF3DUNFFgvIuN2": {
+        "id": "selTF3DUNFFgvIuN2",
+        "name": "Porto",
+        "color": "yellow"
+    },
+    "selR4nL7GGSmWXDbh": {
+        "id": "selR4nL7GGSmWXDbh",
+        "name": "Maia, Oporto",
+        "color": "orange"
+    },
+    "selXH925sodpdcbUF": {
+        "id": "selXH925sodpdcbUF",
+        "name": "Aveiro",
+        "color": "pink"
+    },
+    "selhd9K2IIH4e4YPR": {
+        "id": "selhd9K2IIH4e4YPR",
+        "name": "Lisboa",
+        "color": "greenMedium"
+    },
+    "selcEe7Y253ByVisL": {
+        "id": "selcEe7Y253ByVisL",
+        "name": "Bras-Panon",
+        "color": "tealDarker"
+    },
+    "selS4TV5IJhmf9Byb": {
+        "id": "selS4TV5IJhmf9Byb",
+        "name": "Mont-Saint-Aignan",
+        "color": "purpleMedium"
+    },
+    "selz32qFLMKemvaER": {
+        "id": "selz32qFLMKemvaER",
+        "name": "CHERBOURG EN COTENTIN",
+        "color": "blue"
+    },
+    "selwKEift9zN9h6Xc": {
+        "id": "selwKEift9zN9h6Xc",
+        "name": "MONTGERON",
+        "color": "redMedium"
+    },
+    "selvrMjjSNOJM3XVe": {
+        "id": "selvrMjjSNOJM3XVe",
+        "name": "lyon",
+        "color": "blue"
+    },
+    "selFbVmBHcyO6EoJB": {
+        "id": "selFbVmBHcyO6EoJB",
+        "name": "Trieste",
+        "color": "tealDarker"
+    },
+    "seldCc3Ma4gvbCEQv": {
+        "id": "seldCc3Ma4gvbCEQv",
+        "name": "Navacchio",
+        "color": "yellowDark"
+    },
+    "selVp6JcqJjTQ1hm2": {
+        "id": "selVp6JcqJjTQ1hm2",
+        "name": "Ecully",
+        "color": "blue"
+    },
+    "selVfZ4TRgPMVNyfM": {
+        "id": "selVfZ4TRgPMVNyfM",
+        "name": "Issy-les-Moulineaux",
+        "color": "cyan"
+    },
+    "selh7AewznZdYtRWG": {
+        "id": "selh7AewznZdYtRWG",
+        "name": "Lusaka",
+        "color": "greenDarker"
+    },
+    "selHglbKKFUBovjVS": {
+        "id": "selHglbKKFUBovjVS",
+        "name": "Épinay-sur-Seine (93800)",
+        "color": "grayDarker"
+    },
+    "seldo1L8Znd4XRnux": {
+        "id": "seldo1L8Znd4XRnux",
+        "name": "Ljubljana",
+        "color": "grayMedium"
+    },
+    "selioCF6WKlXD9r7I": {
+        "id": "selioCF6WKlXD9r7I",
+        "name": "Київ",
+        "color": "orangeDark"
+    },
+    "selHpag4eb4kdBD33": {
+        "id": "selHpag4eb4kdBD33",
+        "name": "Paris 9e Arrondissement",
+        "color": "grayDarker"
+    },
+    "selWJs96omPJqIE3U": {
+        "id": "selWJs96omPJqIE3U",
+        "name": "Saint Romain Le Noble",
+        "color": "yellowDark"
+    },
+    "sel6uduuDKbp1veId": {
+        "id": "sel6uduuDKbp1veId",
+        "name": "Petit-Bourg, Guadeloupe",
+        "color": "cyanDarker"
+    },
+    "seli74B4Njo7cf4NR": {
+        "id": "seli74B4Njo7cf4NR",
+        "name": "Santa Barbara",
+        "color": "tealDark"
+    },
+    "sel5OoS1rnFEm918N": {
+        "id": "sel5OoS1rnFEm918N",
+        "name": "Saint Mandé",
+        "color": "orange"
+    },
+    "selH9V9QjTExRqOxz": {
+        "id": "selH9V9QjTExRqOxz",
+        "name": "KYIV",
+        "color": "greenDarker"
+    },
+    "selSnfkS5OFX9lwmA": {
+        "id": "selSnfkS5OFX9lwmA",
+        "name": "SAINT-MANDE",
+        "color": "yellowDarker"
+    },
+    "selWVOaHyrvrbx0Ga": {
+        "id": "selWVOaHyrvrbx0Ga",
+        "name": "Perpignan",
+        "color": "yellow"
+    },
+    "selexQeoetAjFFpWC": {
+        "id": "selexQeoetAjFFpWC",
+        "name": "Fontanes",
+        "color": "blue"
+    },
+    "selqre14LloSLxd9l": {
+        "id": "selqre14LloSLxd9l",
+        "name": "RUEIL MALMAISON",
+        "color": "blue"
+    },
+    "sellnh2QUgbO3V4lV": {
+        "id": "sellnh2QUgbO3V4lV",
+        "name": "Funchal",
+        "color": "redMedium"
+    },
+    "selZyFM7Oi3tvWCuQ": {
+        "id": "selZyFM7Oi3tvWCuQ",
+        "name": "Antony",
+        "color": "cyanDark"
+    },
+    "selvgGIrZ2ItBbL5b": {
+        "id": "selvgGIrZ2ItBbL5b",
+        "name": "Morsang-sur-orge",
+        "color": "blue"
+    },
+    "selvtIUxqEWPrqab3": {
+        "id": "selvtIUxqEWPrqab3",
+        "name": "Asnières",
+        "color": "cyan"
+    },
+    "selOyzZhOXDzBVgQm": {
+        "id": "selOyzZhOXDzBVgQm",
+        "name": "Saint Ouen",
+        "color": "blue"
+    },
+    "seldmrV7XlxX9nUs8": {
+        "id": "seldmrV7XlxX9nUs8",
+        "name": "Tokyo / San Francisco",
+        "color": "orangeMedium"
+    },
+    "selkWaKvNlFsqvHmx": {
+        "id": "selkWaKvNlFsqvHmx",
+        "name": "75116",
+        "color": "cyan"
+    },
+    "sel4EV1z2mtaNTkXA": {
+        "id": "sel4EV1z2mtaNTkXA",
+        "name": "Rosny sous bois",
+        "color": "tealDark"
+    },
+    "selkwQk3rYmmlG5e9": {
+        "id": "selkwQk3rYmmlG5e9",
+        "name": "PARIS 06",
+        "color": "blueMedium"
+    },
+    "sels5epvxtcKJlZ2J": {
+        "id": "sels5epvxtcKJlZ2J",
+        "name": "Xi'an",
+        "color": "pinkMedium"
+    },
+    "selsdMpb5N2CDE5Oi": {
+        "id": "selsdMpb5N2CDE5Oi",
+        "name": "LUYNES",
+        "color": "blue"
+    },
+    "sel4uOHUxNy377nLf": {
+        "id": "sel4uOHUxNy377nLf",
+        "name": "Sharjah",
+        "color": "blue"
+    },
+    "sel10MPqZSa2ALexl": {
+        "id": "sel10MPqZSa2ALexl",
+        "name": "Mazinghem",
+        "color": "green"
+    },
+    "selWkYkMNSYG7vRc3": {
+        "id": "selWkYkMNSYG7vRc3",
+        "name": "tourcoing",
+        "color": "pinkMedium"
+    },
+    "selMaw3CZvoRYLQdx": {
+        "id": "selMaw3CZvoRYLQdx",
+        "name": "FERRARA",
+        "color": "orangeDark"
+    },
+    "selW4GmSzjmDSc7Co": {
+        "id": "selW4GmSzjmDSc7Co",
+        "name": "EGUILLES",
+        "color": "purpleMedium"
+    },
+    "selDCfKAyz8L5v7KA": {
+        "id": "selDCfKAyz8L5v7KA",
+        "name": "Paris - Bordeaux - Marseille",
+        "color": "blue"
+    },
+    "selWG29YesIMhkZya": {
+        "id": "selWG29YesIMhkZya",
+        "name": "L'UNION",
+        "color": "pinkDarker"
+    },
+    "selyp51ICJXVzEu8F": {
+        "id": "selyp51ICJXVzEu8F",
+        "name": "X",
+        "color": "blue"
+    },
+    "selkhxBG2mRB1rLDl": {
+        "id": "selkhxBG2mRB1rLDl",
+        "name": "Cergy-Pontoise",
+        "color": "blueDark"
+    },
+    "selWwvebWvkXC687l": {
+        "id": "selWwvebWvkXC687l",
+        "name": "POITIERS",
+        "color": "cyan"
+    },
+    "selOxVMEpPZEz3Uaj": {
+        "id": "selOxVMEpPZEz3Uaj",
+        "name": "Riyadh",
+        "color": "blue"
+    },
+    "selFu7oNLjNbqe3IF": {
+        "id": "selFu7oNLjNbqe3IF",
+        "name": "marseille",
+        "color": "tealMedium"
+    },
+    "sel3nxquOZMYQO5Tl": {
+        "id": "sel3nxquOZMYQO5Tl",
+        "name": "Verrières-en-Anjou",
+        "color": "cyanDark"
+    },
+    "sel0Ai9Flt4fIR9CW": {
+        "id": "sel0Ai9Flt4fIR9CW",
+        "name": "Montegrotto Terme",
+        "color": "blueMedium"
+    },
+    "selRibJss2FoTsPRi": {
+        "id": "selRibJss2FoTsPRi",
+        "name": "Bellevigny",
+        "color": "orangeMedium"
+    },
+    "selQGIKXwCO2JpbyR": {
+        "id": "selQGIKXwCO2JpbyR",
+        "name": "AUXERRE",
+        "color": "blue"
+    },
+    "selgilmjoTcPqOX4Q": {
+        "id": "selgilmjoTcPqOX4Q",
+        "name": "Paterna, Valencia",
+        "color": "green"
+    },
+    "selwn8OWAL1tQQI5D": {
+        "id": "selwn8OWAL1tQQI5D",
+        "name": "Ecublens",
+        "color": "pink"
+    },
+    "sel361F8lpvrrqQPl": {
+        "id": "sel361F8lpvrrqQPl",
+        "name": "VAILLY-SUR-SAULDRE ",
+        "color": "pinkDarker"
+    },
+    "selctqw724UY7o6GP": {
+        "id": "selctqw724UY7o6GP",
+        "name": "Cagnes sur Mer",
+        "color": "blue"
+    },
+    "sel2vP4iJNwUGVYqO": {
+        "id": "sel2vP4iJNwUGVYqO",
+        "name": "Conteville",
+        "color": "purpleDarker"
+    },
+    "seltrOI8vMqrD3Q6b": {
+        "id": "seltrOI8vMqrD3Q6b",
+        "name": "Mont-Saint-Guibert",
+        "color": "grayMedium"
+    },
+    "selxQgkLnhTld0QcM": {
+        "id": "selxQgkLnhTld0QcM",
+        "name": "ESCALQUENS",
+        "color": "redDark"
+    },
+    "selyTYyeGMlhxeRyn": {
+        "id": "selyTYyeGMlhxeRyn",
+        "name": "PARIS 9",
+        "color": "gray"
+    },
+    "selIj6qqMzHBkqSZ8": {
+        "id": "selIj6qqMzHBkqSZ8",
+        "name": "Port louis",
+        "color": "yellowMedium"
+    },
+    "selD8zMierHavXTpM": {
+        "id": "selD8zMierHavXTpM",
+        "name": "Monaco",
+        "color": "blueDark"
+    },
+    "selNBOS63z4jWbTj6": {
+        "id": "selNBOS63z4jWbTj6",
+        "name": "ST DENIS",
+        "color": "blue"
+    },
+    "selHLUgdXda6uJmJq": {
+        "id": "selHLUgdXda6uJmJq",
+        "name": "Issy les Moulineaux",
+        "color": "greenMedium"
+    },
+    "seldnKUwrHaOoNcii": {
+        "id": "seldnKUwrHaOoNcii",
+        "name": "Rousset",
+        "color": "blue"
+    },
+    "selv8vtsvS1gX23dA": {
+        "id": "selv8vtsvS1gX23dA",
+        "name": "Linkebeek",
+        "color": "blue"
+    },
+    "selI5ShiY7KgcfQtF": {
+        "id": "selI5ShiY7KgcfQtF",
+        "name": "Vexin sur Epte",
+        "color": "blue"
+    },
+    "selkRrmmA5iT4Dly6": {
+        "id": "selkRrmmA5iT4Dly6",
+        "name": "92110 Clichy",
+        "color": "tealDarker"
+    },
+    "selcVFYBDlnrvZiDM": {
+        "id": "selcVFYBDlnrvZiDM",
+        "name": "GRENOBLE",
+        "color": "grayDark"
+    },
+    "selyfWdVZGGkKgnvV": {
+        "id": "selyfWdVZGGkKgnvV",
+        "name": "Braine l'Alleud",
+        "color": "orange"
+    },
+    "selhR4ZUMCMBtsZUE": {
+        "id": "selhR4ZUMCMBtsZUE",
+        "name": "Puidoux",
+        "color": "teal"
+    },
+    "selGqfqCa2YEUQMGp": {
+        "id": "selGqfqCa2YEUQMGp",
+        "name": "Sousse",
+        "color": "red"
+    },
+    "selKScMYVZDAut9se": {
+        "id": "selKScMYVZDAut9se",
+        "name": "Colombes",
+        "color": "redDarker"
+    },
+    "selk43dj1sthgldWL": {
+        "id": "selk43dj1sthgldWL",
+        "name": "CALUIRE ET CUIRE",
+        "color": "orange"
+    },
+    "selK83DLXb8EkCEQ0": {
+        "id": "selK83DLXb8EkCEQ0",
+        "name": "Tillières-sur-Avre",
+        "color": "blue"
+    },
+    "selfcsUxWZegiPKJa": {
+        "id": "selfcsUxWZegiPKJa",
+        "name": "Nice Sophia Antipolis",
+        "color": "blueDark"
+    },
+    "selp8fZOYWuBYpJFB": {
+        "id": "selp8fZOYWuBYpJFB",
+        "name": "Arcueil",
+        "color": "green"
+    },
+    "selMB3J1ZSBjwPnSM": {
+        "id": "selMB3J1ZSBjwPnSM",
+        "name": "Thomery",
+        "color": "grayMedium"
+    },
+    "selhuPGoDN9miTJ5s": {
+        "id": "selhuPGoDN9miTJ5s",
+        "name": "FONTAINE",
+        "color": "cyanDarker"
+    },
+    "seluv4W5aST8iJBrI": {
+        "id": "seluv4W5aST8iJBrI",
+        "name": "Kirkland",
+        "color": "cyanDark"
+    },
+    "seldGAs7NcAkoXeob": {
+        "id": "seldGAs7NcAkoXeob",
+        "name": "Darmstadt",
+        "color": "green"
+    },
+    "selEdnfwof77kpcmC": {
+        "id": "selEdnfwof77kpcmC",
+        "name": "Mechelen (Belgium)",
+        "color": "blueDarker"
+    },
+    "selyqjczABcKjAavN": {
+        "id": "selyqjczABcKjAavN",
+        "name": "Taiwan",
+        "color": "blue"
+    },
+    "selU9b4SfsbJIz1DD": {
+        "id": "selU9b4SfsbJIz1DD",
+        "name": "Onna Village, Okinawa",
+        "color": "redDarker"
+    },
+    "selz1MiEDxIzm1mft": {
+        "id": "selz1MiEDxIzm1mft",
+        "name": "Gwangju",
+        "color": "greenDarker"
+    },
+    "self0MFN9VtRVkvh1": {
+        "id": "self0MFN9VtRVkvh1",
+        "name": "Troyes",
+        "color": "gray"
+    },
+    "selKsxvxH7Rctr9cT": {
+        "id": "selKsxvxH7Rctr9cT",
+        "name": "Itajai",
+        "color": "blue"
+    },
+    "sel9jxVQGLjREHhew": {
+        "id": "sel9jxVQGLjREHhew",
+        "name": "Lugano Switzerland",
+        "color": "grayDarker"
+    },
+    "selFOgBYf43TivCD2": {
+        "id": "selFOgBYf43TivCD2",
+        "name": "Bellegarde_Marsal",
+        "color": "greenMedium"
+    },
+    "selHdfqel5iNAlQt1": {
+        "id": "selHdfqel5iNAlQt1",
+        "name": "VINCENNES",
+        "color": "orangeDarker"
+    },
+    "selSXBcI3M94Qslga": {
+        "id": "selSXBcI3M94Qslga",
+        "name": "Saint Paul (Reunion Island)",
+        "color": "pink"
+    },
+    "selx2vCWerPrkAS4N": {
+        "id": "selx2vCWerPrkAS4N",
+        "name": "Aachen",
+        "color": "grayDarker"
+    },
+    "selQUJXw4KgdBB0PG": {
+        "id": "selQUJXw4KgdBB0PG",
+        "name": "Gazipur",
+        "color": "yellowMedium"
+    },
+    "seliq4zF8o8lJYDhg": {
+        "id": "seliq4zF8o8lJYDhg",
+        "name": "LE FRANÇOIS",
+        "color": "blueDark"
+    },
+    "selCMZrc32Z0dnbL3": {
+        "id": "selCMZrc32Z0dnbL3",
+        "name": "Le Soler",
+        "color": "red"
+    },
+    "selLs6XBzVrpvYTHT": {
+        "id": "selLs6XBzVrpvYTHT",
+        "name": "Marcq-en-Barœul",
+        "color": "greenMedium"
+    },
+    "selWRz0lM6zhr2t6q": {
+        "id": "selWRz0lM6zhr2t6q",
+        "name": "PARIS 18",
+        "color": "redDark"
+    },
+    "selpyqrI7W8KVRDXm": {
+        "id": "selpyqrI7W8KVRDXm",
+        "name": "Bretenière",
+        "color": "grayDark"
+    },
+    "selervNUFhVLf3uwt": {
+        "id": "selervNUFhVLf3uwt",
+        "name": "Shibuya-ku",
+        "color": "blueMedium"
+    },
+    "selPdlC68fKSQjvU7": {
+        "id": "selPdlC68fKSQjvU7",
+        "name": "CAEN",
+        "color": "greenDarker"
+    },
+    "selwyWB5vCM3Y7Zwr": {
+        "id": "selwyWB5vCM3Y7Zwr",
+        "name": "Stockholm",
+        "color": "orange"
+    },
+    "selkuDZjNTNNzQO4y": {
+        "id": "selkuDZjNTNNzQO4y",
+        "name": "Merignies",
+        "color": "cyanMedium"
+    },
+    "seljdkl7Zu44CLnYe": {
+        "id": "seljdkl7Zu44CLnYe",
+        "name": "CHAMPAGNE AU MONT D OR",
+        "color": "red"
+    },
+    "selrbKEBgd79BPokv": {
+        "id": "selrbKEBgd79BPokv",
+        "name": "BOUCAU",
+        "color": "cyanMedium"
+    },
+    "selujgEi534bXXC5K": {
+        "id": "selujgEi534bXXC5K",
+        "name": "MEYLAN",
+        "color": "blue"
+    },
+    "sel6R4q8wgDhCiGdD": {
+        "id": "sel6R4q8wgDhCiGdD",
+        "name": "Plan-les-Ouates",
+        "color": "yellowDarker"
+    },
+    "selQmhIqV9eo9TSjP": {
+        "id": "selQmhIqV9eo9TSjP",
+        "name": "Saint-Cloud",
+        "color": "tealDarker"
+    },
+    "sel9cyzTbmrhZemFM": {
+        "id": "sel9cyzTbmrhZemFM",
+        "name": "Dongguan City",
+        "color": "greenDark"
+    },
+    "sellsIbby9zjj3OT0": {
+        "id": "sellsIbby9zjj3OT0",
+        "name": "SHENZHEN",
+        "color": "blue"
+    },
+    "selLrCocPpexjrBDT": {
+        "id": "selLrCocPpexjrBDT",
+        "name": "Blois",
+        "color": "blue"
+    },
+    "selQ1jKBOLW5yVGJD": {
+        "id": "selQ1jKBOLW5yVGJD",
+        "name": "Nagoya, Aichi",
+        "color": "purpleDarker"
+    },
+    "selAjJr2uAOHPzc1A": {
+        "id": "selAjJr2uAOHPzc1A",
+        "name": "manosque",
+        "color": "blue"
+    },
+    "selZVaEg4cuSKdxmQ": {
+        "id": "selZVaEg4cuSKdxmQ",
+        "name": "Le Bourget-du-Lac",
+        "color": "purpleDarker"
+    },
+    "selV8vcqcW6bOvxF8": {
+        "id": "selV8vcqcW6bOvxF8",
+        "name": "Le Havre",
+        "color": "pink"
+    },
+    "selb2JUTGSw67K1CJ": {
+        "id": "selb2JUTGSw67K1CJ",
+        "name": "Houston",
+        "color": "teal"
+    },
+    "selk3kAgvmilIqZBG": {
+        "id": "selk3kAgvmilIqZBG",
+        "name": "Saint-Étienne",
+        "color": "purple"
+    },
+    "selmooWXG7wTCL5dy": {
+        "id": "selmooWXG7wTCL5dy",
+        "name": "Boulogne Billancourt",
+        "color": "red"
+    },
+    "selicfmET6289y85g": {
+        "id": "selicfmET6289y85g",
+        "name": "LYON 6EME",
+        "color": "gray"
+    },
+    "selSIiBoYsNGBoml7": {
+        "id": "selSIiBoYsNGBoml7",
+        "name": "London, UK",
+        "color": "blue"
+    },
+    "selqmly31EEDLKSEM": {
+        "id": "selqmly31EEDLKSEM",
+        "name": "Cairo",
+        "color": "blueDark"
+    },
+    "sel5BmzVoxmqCEUdA": {
+        "id": "sel5BmzVoxmqCEUdA",
+        "name": "Accra",
+        "color": "purpleMedium"
+    },
+    "selCwwFrm13PhTyxh": {
+        "id": "selCwwFrm13PhTyxh",
+        "name": "Ouagadougou",
+        "color": "grayMedium"
+    },
+    "selqp0WkNTMwczNgK": {
+        "id": "selqp0WkNTMwczNgK",
+        "name": "Dublin",
+        "color": "cyanMedium"
+    },
+    "selzuiNFnl4lJrmNb": {
+        "id": "selzuiNFnl4lJrmNb",
+        "name": "NANTERRE",
+        "color": "yellowMedium"
+    },
+    "selmW2FEnitrN3l65": {
+        "id": "selmW2FEnitrN3l65",
+        "name": "monteux",
+        "color": "yellowMedium"
+    },
+    "selX1ueQVMzGHyo1d": {
+        "id": "selX1ueQVMzGHyo1d",
+        "name": "SACLAY",
+        "color": "orange"
+    },
+    "selefhLE7I7ikDvI8": {
+        "id": "selefhLE7I7ikDvI8",
+        "name": "Guipavas",
+        "color": "greenDarker"
+    },
+    "selzvj9NXx2Si9fSL": {
+        "id": "selzvj9NXx2Si9fSL",
+        "name": "LA HULPE",
+        "color": "purpleMedium"
+    },
+    "sellmRzuSKahoc7dm": {
+        "id": "sellmRzuSKahoc7dm",
+        "name": "ROME",
+        "color": "orangeDark"
+    },
+    "selY2n8w2M6WI0nJU": {
+        "id": "selY2n8w2M6WI0nJU",
+        "name": "Lucciana",
+        "color": "pink"
+    },
+    "selrHNkjIAo3fvfnO": {
+        "id": "selrHNkjIAo3fvfnO",
+        "name": "Angoulême",
+        "color": "pink"
+    },
+    "selI2y2IUh08mdojX": {
+        "id": "selI2y2IUh08mdojX",
+        "name": "Conakry",
+        "color": "cyanDark"
+    },
+    "selCz7DqIw7vXeHS0": {
+        "id": "selCz7DqIw7vXeHS0",
+        "name": "DABOU",
+        "color": "purpleDark"
+    },
+    "selWe0iUptUY9uZIV": {
+        "id": "selWe0iUptUY9uZIV",
+        "name": "Mont-Royal",
+        "color": "orangeMedium"
+    },
+    "selrH1UwyI37L398D": {
+        "id": "selrH1UwyI37L398D",
+        "name": "SAINT CYR EN VAL",
+        "color": "blue"
+    },
+    "selT0W28DZdPceoqA": {
+        "id": "selT0W28DZdPceoqA",
+        "name": "Bois-Colombes",
+        "color": "blue"
+    },
+    "selbKFlvaI3kzkQZq": {
+        "id": "selbKFlvaI3kzkQZq",
+        "name": "Neuchâtel",
+        "color": "green"
+    },
+    "selkgcGvhJ5QsYwPL": {
+        "id": "selkgcGvhJ5QsYwPL",
+        "name": "LAUSANNE",
+        "color": "grayDarker"
+    },
+    "selru7uEXU5yOBoRC": {
+        "id": "selru7uEXU5yOBoRC",
+        "name": "TOURS",
+        "color": "yellowMedium"
+    },
+    "selFEQutOyTHBUnEv": {
+        "id": "selFEQutOyTHBUnEv",
+        "name": "LA MULATIERE",
+        "color": "blue"
+    },
+    "selg6l8C4vox0pBXS": {
+        "id": "selg6l8C4vox0pBXS",
+        "name": "Chasseneuil du Poitou",
+        "color": "greenMedium"
+    },
+    "selXAL36o9iwbYZsx": {
+        "id": "selXAL36o9iwbYZsx",
+        "name": "Menlo Park",
+        "color": "blue"
+    },
+    "selpgkzBwkfI1rzw6": {
+        "id": "selpgkzBwkfI1rzw6",
+        "name": "La Seyne sur Mer",
+        "color": "blueMedium"
+    },
+    "sel5aBPDgdcuNc8Ti": {
+        "id": "sel5aBPDgdcuNc8Ti",
+        "name": "Hyeres",
+        "color": "pinkMedium"
+    },
+    "sel2Gg5WlMDZaESiq": {
+        "id": "sel2Gg5WlMDZaESiq",
+        "name": "Elst",
+        "color": "gray"
+    },
+    "selSs9qfOZccacfqA": {
+        "id": "selSs9qfOZccacfqA",
+        "name": "Musgrave",
+        "color": "grayMedium"
+    },
+    "selxhgXh1y5UROV9q": {
+        "id": "selxhgXh1y5UROV9q",
+        "name": "Manouba, Tunisia",
+        "color": "yellow"
+    },
+    "selqMwPfbPyYOJriR": {
+        "id": "selqMwPfbPyYOJriR",
+        "name": "BESANÇON",
+        "color": "purpleDark"
+    },
+    "selfxg3f4GAPnOo1D": {
+        "id": "selfxg3f4GAPnOo1D",
+        "name": "NEUILLY-SUR-SEINE",
+        "color": "orangeDarker"
+    },
+    "selUDLXaKqsoCnlWg": {
+        "id": "selUDLXaKqsoCnlWg",
+        "name": "Chatillon",
+        "color": "teal"
+    },
+    "selI2AzJB4eeiTBww": {
+        "id": "selI2AzJB4eeiTBww",
+        "name": "LE Lamentin",
+        "color": "orangeDarker"
+    },
+    "sel2Ln1SlzlOoy6yG": {
+        "id": "sel2Ln1SlzlOoy6yG",
+        "name": "Vitré",
+        "color": "redMedium"
+    },
+    "selG17EwCCCHNpjRW": {
+        "id": "selG17EwCCCHNpjRW",
+        "name": "Briatexte",
+        "color": "yellowDarker"
+    },
+    "selTpvkSuOZXnOngf": {
+        "id": "selTpvkSuOZXnOngf",
+        "name": "x",
+        "color": "blue"
+    },
+    "sel8kPh4g9a7pu9d4": {
+        "id": "sel8kPh4g9a7pu9d4",
+        "name": "PETIT-BOURG",
+        "color": "orangeDark"
+    },
+    "selT2SISjNXfZMFAq": {
+        "id": "selT2SISjNXfZMFAq",
+        "name": "Fort de France",
+        "color": "tealDark"
+    },
+    "selQSLF45mKLbSzTC": {
+        "id": "selQSLF45mKLbSzTC",
+        "name": "Fano (PU)",
+        "color": "orange"
+    },
+    "selIefjJ9Aj6I5xMY": {
+        "id": "selIefjJ9Aj6I5xMY",
+        "name": "Montmorency",
+        "color": "purpleMedium"
+    },
+    "selHMW4HVBfbG63fm": {
+        "id": "selHMW4HVBfbG63fm",
+        "name": "Bremen",
+        "color": "redDark"
+    },
+    "selPnmnWN1LJQqf9b": {
+        "id": "selPnmnWN1LJQqf9b",
+        "name": "Aytré ",
+        "color": "purple"
+    },
+    "seluLdx3rpizv7yXT": {
+        "id": "seluLdx3rpizv7yXT",
+        "name": "Lamentin",
+        "color": "blueDarker"
+    },
+    "selv2ix8TiYgehbs6": {
+        "id": "selv2ix8TiYgehbs6",
+        "name": "Moncton",
+        "color": "blueDarker"
+    },
+    "selzjTpT9SOnJtMCG": {
+        "id": "selzjTpT9SOnJtMCG",
+        "name": "BAIE MAHAULT",
+        "color": "cyanDarker"
+    },
+    "selQl7gWSuWnLy3My": {
+        "id": "selQl7gWSuWnLy3My",
+        "name": "North York",
+        "color": "redMedium"
+    },
+    "sellBcyMOu1fzmZby": {
+        "id": "sellBcyMOu1fzmZby",
+        "name": "Naha-city",
+        "color": "redDark"
+    },
+    "selGnGqbEOeiDLu7d": {
+        "id": "selGnGqbEOeiDLu7d",
+        "name": "Varennes sur Fouzon",
+        "color": "blue"
+    },
+    "selE4wLhkLhfcPum1": {
+        "id": "selE4wLhkLhfcPum1",
+        "name": "Mantova",
+        "color": "blueDark"
+    },
+    "selJgqcvk3bSqvk0a": {
+        "id": "selJgqcvk3bSqvk0a",
+        "name": "Hannover",
+        "color": "purpleDarker"
+    },
+    "selYeZ8UwEzoQy71L": {
+        "id": "selYeZ8UwEzoQy71L",
+        "name": "Tourcoing",
+        "color": "purple"
+    },
+    "selAo3kb0mA5DhQgb": {
+        "id": "selAo3kb0mA5DhQgb",
+        "name": "Beijing China",
+        "color": "pinkDarker"
+    },
+    "selgg03kXroTaNmE3": {
+        "id": "selgg03kXroTaNmE3",
+        "name": "Toronto, ON",
+        "color": "yellowMedium"
+    },
+    "selowHJPBURoTypwV": {
+        "id": "selowHJPBURoTypwV",
+        "name": "Gardanne",
+        "color": "yellow"
+    },
+    "sel66YW6OQviwwM3E": {
+        "id": "sel66YW6OQviwwM3E",
+        "name": "Clermont-ferrand",
+        "color": "purple"
+    },
+    "selTaUGbRUrTJmXpH": {
+        "id": "selTaUGbRUrTJmXpH",
+        "name": "Abidjan, Cocody",
+        "color": "cyanMedium"
+    },
+    "selGkaMVr1Sw9W5gS": {
+        "id": "selGkaMVr1Sw9W5gS",
+        "name": "Abidjan Cocody",
+        "color": "greenDark"
+    },
+    "selZxtZ4L4TeQHmUL": {
+        "id": "selZxtZ4L4TeQHmUL",
+        "name": "Tahiti",
+        "color": "pink"
+    },
+    "selpsLUNpVLYTwoJ1": {
+        "id": "selpsLUNpVLYTwoJ1",
+        "name": "LOS ANGELES",
+        "color": "purpleMedium"
+    },
+    "sel1D9qFWRFCmIg00": {
+        "id": "sel1D9qFWRFCmIg00",
+        "name": "Wellington",
+        "color": "green"
+    },
+    "selbYZZOuSovxUw8q": {
+        "id": "selbYZZOuSovxUw8q",
+        "name": "Petit bourg",
+        "color": "greenDark"
+    },
+    "selvx2CDzsvh39IOp": {
+        "id": "selvx2CDzsvh39IOp",
+        "name": "Delaware",
+        "color": "grayDark"
+    },
+    "sel7igenaWzrwGZ1T": {
+        "id": "sel7igenaWzrwGZ1T",
+        "name": "Gwacheon-si",
+        "color": "yellow"
+    },
+    "selM5jySzDca5Wlp4": {
+        "id": "selM5jySzDca5Wlp4",
+        "name": "SEPMES",
+        "color": "orangeMedium"
+    },
+    "selnxe2QsWN3sxeHc": {
+        "id": "selnxe2QsWN3sxeHc",
+        "name": "Fredericton",
+        "color": "cyanMedium"
+    },
+    "selm8Q3EvxX1UlUQW": {
+        "id": "selm8Q3EvxX1UlUQW",
+        "name": "Namur",
+        "color": "blueMedium"
+    },
+    "sel55DR0kbyUiJCQk": {
+        "id": "sel55DR0kbyUiJCQk",
+        "name": "Moissy Cramayel",
+        "color": "blue"
+    },
+    "selLILkbRotl9qoNP": {
+        "id": "selLILkbRotl9qoNP",
+        "name": "ANNECY",
+        "color": "purpleDark"
+    },
+    "sel2z5fJtws107LF1": {
+        "id": "sel2z5fJtws107LF1",
+        "name": "MOSTAGANEM",
+        "color": "orangeDarker"
+    },
+    "selYCIL62ZTnfKVnW": {
+        "id": "selYCIL62ZTnfKVnW",
+        "name": "Hyères",
+        "color": "grayDarker"
+    },
+    "seltlGY1zRBumNVI6": {
+        "id": "seltlGY1zRBumNVI6",
+        "name": "Yerevan, Armenia",
+        "color": "pinkMedium"
+    },
+    "selQV7x0ZkTB21Yd2": {
+        "id": "selQV7x0ZkTB21Yd2",
+        "name": "Mirepoix-sur-Tarn",
+        "color": "tealDark"
+    },
+    "selIkCFjBQjhxtuKw": {
+        "id": "selIkCFjBQjhxtuKw",
+        "name": "Warszawa",
+        "color": "blueMedium"
+    },
+    "selk7lrCj55lk8RHW": {
+        "id": "selk7lrCj55lk8RHW",
+        "name": "Sonceboz",
+        "color": "yellowDark"
+    },
+    "selQD921eZe5tD3a0": {
+        "id": "selQD921eZe5tD3a0",
+        "name": "Arras",
+        "color": "orange"
+    },
+    "selWFimR3NGNBdIJ5": {
+        "id": "selWFimR3NGNBdIJ5",
+        "name": "tokyo",
+        "color": "tealMedium"
+    },
+    "selQI9XM0dKFdEeLs": {
+        "id": "selQI9XM0dKFdEeLs",
+        "name": "Anyang",
+        "color": "redMedium"
+    },
+    "sel2NFSN31XBORm6G": {
+        "id": "sel2NFSN31XBORm6G",
+        "name": "Reims",
+        "color": "pinkMedium"
+    },
+    "selYB0RUHTDyrn8vV": {
+        "id": "selYB0RUHTDyrn8vV",
+        "name": "Delemont",
+        "color": "blue"
+    },
+    "seljYiw93eqmeOzv8": {
+        "id": "seljYiw93eqmeOzv8",
+        "name": "Purmerend",
+        "color": "cyanDarker"
+    },
+    "sel7XDhaBWDVPAC0u": {
+        "id": "sel7XDhaBWDVPAC0u",
+        "name": "La Roche-sur-Yon",
+        "color": "blue"
+    },
+    "selgSNor80yV4EZF6": {
+        "id": "selgSNor80yV4EZF6",
+        "name": "ANDUZE",
+        "color": "redDarker"
+    },
+    "sel7vrMWbc9nq3q8r": {
+        "id": "sel7vrMWbc9nq3q8r",
+        "name": "Rezzato (BS)",
+        "color": "blue"
+    },
+    "selxPXdaiMmu89xwf": {
+        "id": "selxPXdaiMmu89xwf",
+        "name": "VERSAILLES",
+        "color": "pinkMedium"
+    },
+    "selEAhFIdrQFCmL0O": {
+        "id": "selEAhFIdrQFCmL0O",
+        "name": "LEVALLOIS-PERRET",
+        "color": "pinkDarker"
+    },
+    "selFOesFoZdcassdX": {
+        "id": "selFOesFoZdcassdX",
+        "name": "Padua",
+        "color": "greenDark"
+    },
+    "selMpHN71GnSh42Kp": {
+        "id": "selMpHN71GnSh42Kp",
+        "name": "ROCHEFORT",
+        "color": "orangeMedium"
+    },
+    "selMXPoJA0EKW6n00": {
+        "id": "selMXPoJA0EKW6n00",
+        "name": "Christchurch",
+        "color": "pinkMedium"
+    },
+    "selWP2LhFeqV6QwmN": {
+        "id": "selWP2LhFeqV6QwmN",
+        "name": "Munich & Paris",
+        "color": "pinkDarker"
+    },
+    "selHiJetmInUxKUY9": {
+        "id": "selHiJetmInUxKUY9",
+        "name": "RENNES",
+        "color": "teal"
+    },
+    "seleEUR3j1BPZVrIh": {
+        "id": "seleEUR3j1BPZVrIh",
+        "name": "VIERZON",
+        "color": "purple"
+    },
+    "selUgoRyRiLa2nQhe": {
+        "id": "selUgoRyRiLa2nQhe",
+        "name": "Wavre",
+        "color": "pinkDark"
+    },
+    "selwrwE3MsAyUgiJy": {
+        "id": "selwrwE3MsAyUgiJy",
+        "name": "MILANO",
+        "color": "teal"
+    },
+    "sel8ltMdjJz6meUNc": {
+        "id": "sel8ltMdjJz6meUNc",
+        "name": "Lasne",
+        "color": "pinkDark"
+    },
+    "selmfM2BkjMSCEkN8": {
+        "id": "selmfM2BkjMSCEkN8",
+        "name": "SAINT-ETIENNE",
+        "color": "orangeDarker"
+    },
+    "sel4zsBAQqPvVr6uL": {
+        "id": "sel4zsBAQqPvVr6uL",
+        "name": "Saint-Nazaire (44600)",
+        "color": "grayDark"
+    },
+    "selzBbYuhELlYRMqt": {
+        "id": "selzBbYuhELlYRMqt",
+        "name": "Sendai city",
+        "color": "purple"
+    },
+    "sel6nm7i7eDncpuzB": {
+        "id": "sel6nm7i7eDncpuzB",
+        "name": "Douai",
+        "color": "redMedium"
+    },
+    "selRBLvRioWlH1OWX": {
+        "id": "selRBLvRioWlH1OWX",
+        "name": "Suresnes",
+        "color": "blue"
+    },
+    "sellrcCHg3uZ7ee9N": {
+        "id": "sellrcCHg3uZ7ee9N",
+        "name": "Viareggio",
+        "color": "redDark"
+    },
+    "sel2uUlQTKtNh7gB9": {
+        "id": "sel2uUlQTKtNh7gB9",
+        "name": "Paris-Saclay",
+        "color": "grayDarker"
+    },
+    "sel5no2Cn8xsRQFpF": {
+        "id": "sel5no2Cn8xsRQFpF",
+        "name": "Canéjan",
+        "color": "pink"
+    },
+    "selbeaSeZlZklAAyy": {
+        "id": "selbeaSeZlZklAAyy",
+        "name": "München",
+        "color": "redDark"
+    },
+    "selmHa3grVnomZVu8": {
+        "id": "selmHa3grVnomZVu8",
+        "name": "Madinah",
+        "color": "blue"
+    },
+    "sel1wmwsiA2p5NAD3": {
+        "id": "sel1wmwsiA2p5NAD3",
+        "name": "Santa Clara",
+        "color": "pinkDarker"
+    },
+    "sel5t3xLpDrptYjw5": {
+        "id": "sel5t3xLpDrptYjw5",
+        "name": "Cremorne",
+        "color": "blueMedium"
+    },
+    "seleIHwSb45JDtci0": {
+        "id": "seleIHwSb45JDtci0",
+        "name": "Saint-Etienne",
+        "color": "blueDark"
+    },
+    "selNaBe4q3vqz5lQ8": {
+        "id": "selNaBe4q3vqz5lQ8",
+        "name": "Düsseldorf",
+        "color": "gray"
+    },
+    "sel3NlvkNXDB7zW8F": {
+        "id": "sel3NlvkNXDB7zW8F",
+        "name": "L Aquila",
+        "color": "cyanMedium"
+    },
+    "sele9whtW15U8I44E": {
+        "id": "sele9whtW15U8I44E",
+        "name": "Khobar",
+        "color": "blue"
+    },
+    "sel3dCBPucyPheIVi": {
+        "id": "sel3dCBPucyPheIVi",
+        "name": "Vincennes",
+        "color": "cyanMedium"
+    },
+    "selb4sMntDdJXiol5": {
+        "id": "selb4sMntDdJXiol5",
+        "name": "Leiden",
+        "color": "purple"
+    },
+    "selZktKWrJWF9r9IM": {
+        "id": "selZktKWrJWF9r9IM",
+        "name": "Firenze",
+        "color": "pinkDark"
+    },
+    "selKGbDAYjMa3nUv6": {
+        "id": "selKGbDAYjMa3nUv6",
+        "name": "VILLEURBANNE",
+        "color": "orangeDarker"
+    },
+    "selHOKgCca9E4WeQb": {
+        "id": "selHOKgCca9E4WeQb",
+        "name": "Meguro-ku, Tokyo",
+        "color": "purpleDark"
+    },
+    "selZl5Fxrxt1I9hJd": {
+        "id": "selZl5Fxrxt1I9hJd",
+        "name": "Sharjah UAE",
+        "color": "blue"
+    },
+    "seliLNh3zYWLVKA8D": {
+        "id": "seliLNh3zYWLVKA8D",
+        "name": "DUBAI",
+        "color": "blue"
+    },
+    "selGakAoR6ymamJhx": {
+        "id": "selGakAoR6ymamJhx",
+        "name": "LENS",
+        "color": "blue"
+    },
+    "sels5wIbmoc5AtTlN": {
+        "id": "sels5wIbmoc5AtTlN",
+        "name": "grigny",
+        "color": "blue"
+    },
+    "selY8gqSVowh7icAG": {
+        "id": "selY8gqSVowh7icAG",
+        "name": "Lambersart",
+        "color": "purpleMedium"
+    },
+    "selgk8ljba4yRrfxZ": {
+        "id": "selgk8ljba4yRrfxZ",
+        "name": "Challans",
+        "color": "cyan"
+    },
+    "selgcsRQnAXJr28ur": {
+        "id": "selgcsRQnAXJr28ur",
+        "name": "Somerville, MA ",
+        "color": "greenDarker"
+    },
+    "sel2B2zPCQPOjbmmM": {
+        "id": "sel2B2zPCQPOjbmmM",
+        "name": "CESTAS",
+        "color": "redDark"
+    },
+    "sel7KQ7G20D7TVVak": {
+        "id": "sel7KQ7G20D7TVVak",
+        "name": "HANGZHOU",
+        "color": "blue"
+    },
+    "selN8jwE71A02q738": {
+        "id": "selN8jwE71A02q738",
+        "name": "Graz",
+        "color": "blue"
+    },
+    "selhYOqVasNcjOhR3": {
+        "id": "selhYOqVasNcjOhR3",
+        "name": "Rolle",
+        "color": "blue"
+    },
+    "sel9cDufTLfjIOcMO": {
+        "id": "sel9cDufTLfjIOcMO",
+        "name": "HONG KONG",
+        "color": "yellow"
+    },
+    "selIdO4aNqOj6LDVY": {
+        "id": "selIdO4aNqOj6LDVY",
+        "name": "St. Gallen",
+        "color": "green"
+    },
+    "sel3zADsrqybzUB2X": {
+        "id": "sel3zADsrqybzUB2X",
+        "name": "Florence",
+        "color": "yellowDark"
+    },
+    "selx7ear3J8yE8Nm9": {
+        "id": "selx7ear3J8yE8Nm9",
+        "name": "Genval",
+        "color": "cyanDark"
+    },
+    "selsKTX6pih1k0rj6": {
+        "id": "selsKTX6pih1k0rj6",
+        "name": "Bristol",
+        "color": "teal"
+    },
+    "selPwZVWtJH2nsFgV": {
+        "id": "selPwZVWtJH2nsFgV",
+        "name": "suzhou",
+        "color": "blue"
+    },
+    "selieKzqEAssB8mus": {
+        "id": "selieKzqEAssB8mus",
+        "name": "valbonne",
+        "color": "pinkMedium"
+    },
+    "selTVzpMvbanBrLSG": {
+        "id": "selTVzpMvbanBrLSG",
+        "name": "ISSY-LES-MOULINEAUX",
+        "color": "grayDark"
+    },
+    "sel4BYt4QP3tm4Vp9": {
+        "id": "sel4BYt4QP3tm4Vp9",
+        "name": "Fontenay-sous-Bois",
+        "color": "orangeDark"
+    },
+    "selDBstFFKNiBE7Hg": {
+        "id": "selDBstFFKNiBE7Hg",
+        "name": "TROYES",
+        "color": "cyanMedium"
+    },
+    "sel6781FVsQrXibX1": {
+        "id": "sel6781FVsQrXibX1",
+        "name": "Biarritz",
+        "color": "blue"
+    },
+    "seltNZz5cYKQfJjai": {
+        "id": "seltNZz5cYKQfJjai",
+        "name": "Stuttgart",
+        "color": "yellowDark"
+    },
+    "selbRNFqQBXbch1zW": {
+        "id": "selbRNFqQBXbch1zW",
+        "name": "SHANGHAI",
+        "color": "blue"
+    },
+    "selz6BEODvVyET4dH": {
+        "id": "selz6BEODvVyET4dH",
+        "name": "Richmond",
+        "color": "tealDarker"
+    },
+    "seljIAq7cRyroL0JU": {
+        "id": "seljIAq7cRyroL0JU",
+        "name": "La Défense",
+        "color": "redDark"
+    },
+    "selgY2zp5BUShqgF2": {
+        "id": "selgY2zp5BUShqgF2",
+        "name": "Evry",
+        "color": "purpleDarker"
+    },
+    "selAz5q01PM3knsSi": {
+        "id": "selAz5q01PM3knsSi",
+        "name": "Bangalore",
+        "color": "purple"
+    },
+    "selmEYb9fe73czNra": {
+        "id": "selmEYb9fe73czNra",
+        "name": "CLICHY",
+        "color": "green"
+    },
+    "selY062Q7zZkYfv8e": {
+        "id": "selY062Q7zZkYfv8e",
+        "name": "LE MANS",
+        "color": "yellowDark"
+    },
+    "selRPlJsJu6oSwe5V": {
+        "id": "selRPlJsJu6oSwe5V",
+        "name": "Niherne",
+        "color": "blue"
+    },
+    "selS5taJdIvWDFknG": {
+        "id": "selS5taJdIvWDFknG",
+        "name": "Le Mans",
+        "color": "orangeDarker"
+    },
+    "seliWqXp78QGfLR6B": {
+        "id": "seliWqXp78QGfLR6B",
+        "name": "Monheim am Rhein",
+        "color": "gray"
+    },
+    "selDH86fY5Yw0ustt": {
+        "id": "selDH86fY5Yw0ustt",
+        "name": "Moyeuvre-Grande",
+        "color": "tealMedium"
+    },
+    "selDmIXuUPOw140Ow": {
+        "id": "selDmIXuUPOw140Ow",
+        "name": "Vandeuvre-les-Nancy",
+        "color": "cyan"
+    },
+    "selhyDc2aH57yz03H": {
+        "id": "selhyDc2aH57yz03H",
+        "name": "Saint-Herblain",
+        "color": "redDarker"
+    },
+    "selVg1A2TNgjzZ8X4": {
+        "id": "selVg1A2TNgjzZ8X4",
+        "name": "Padova",
+        "color": "blue"
+    },
+    "selVSIPq6jUwZV1Bi": {
+        "id": "selVSIPq6jUwZV1Bi",
+        "name": "Culver City",
+        "color": "yellowDarker"
+    },
+    "selcGjoymami66WC3": {
+        "id": "selcGjoymami66WC3",
+        "name": "San Diego",
+        "color": "blueDarker"
+    },
+    "selV2o7l0ktOn7zBm": {
+        "id": "selV2o7l0ktOn7zBm",
+        "name": "Sunnyvale",
+        "color": "blue"
+    },
+    "selmeRF1IJaqaNFJd": {
+        "id": "selmeRF1IJaqaNFJd",
+        "name": "Chuncheon-si",
+        "color": "yellow"
+    },
+    "selEWPGlfahVkn0BI": {
+        "id": "selEWPGlfahVkn0BI",
+        "name": "Cayenne",
+        "color": "purpleDark"
+    },
+    "selfpZfETLSjD9eyz": {
+        "id": "selfpZfETLSjD9eyz",
+        "name": "Tsukuba science city",
+        "color": "orangeDark"
+    },
+    "selwI0wBheHqO6W8f": {
+        "id": "selwI0wBheHqO6W8f",
+        "name": "MOIRANS",
+        "color": "blue"
+    },
+    "selcgiSiumw0wiKHF": {
+        "id": "selcgiSiumw0wiKHF",
+        "name": "Libourne",
+        "color": "teal"
+    },
+    "selVvWnYN6Q32GbmT": {
+        "id": "selVvWnYN6Q32GbmT",
+        "name": "CHATEAURENARD",
+        "color": "greenMedium"
+    },
+    "selQrFeyWMf1lu95I": {
+        "id": "selQrFeyWMf1lu95I",
+        "name": "Pantin",
+        "color": "blueDark"
+    }}}

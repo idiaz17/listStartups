@@ -9,6 +9,8 @@ import {
 import Companies from "../compannies.json";
 const ListStartups = () => {
   return (
+
+
     <table className="overflow-x-auto">
       <thead>
         <tr>
