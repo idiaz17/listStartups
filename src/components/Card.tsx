@@ -60,7 +60,7 @@ export const Card = ({ company }: any) => {
   };
 
   return (
-    <div className="bg-slate-200  max-w-[500px] rounded-3xl p-8 mb-4">
+    <div className="bg-slate-200  max-w-[500px] rounded-3xl p-8 mb-4 shadow-lg">
       <div className=" flex justify-center align-middle items-center gap-4 pb-8">
         <img
           src={company.cellValuesByColumnId.fldeyDU8YJMxN5pcA || nologo}

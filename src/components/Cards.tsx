@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Companies from "../compannies.json";
 import { Card } from "./Card";
+import { FaSearch } from "react-icons/fa";
 
 export const Cards = () => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -31,13 +32,16 @@ export const Cards = () => {
 
   return (
     <div className="w-full flex flex-col items-center">
-      <input
-        type="text"
-        placeholder="Search companies..."
-        value={searchTerm}
-        onChange={handleSearchChange}
-        className="mb-4 p-2 border border-gray-300 rounded"
-      />
+      <div className="flex items-center">
+
+        <input
+          type="text"
+          placeholder="Search companies..."
+          value={searchTerm}
+          onChange={handleSearchChange}
+          className="mb-4 p-2 border border-gray-300 rounded"
+        />
+      </div>
       <div>
         {currentCompanies.map((company: any, index: number) => (
           <Card company={company} key={index} />
