@@ -108,6 +108,10 @@ export const Card = ({ company }: any) => {
                   : "No info"}
               </p>
               <p className="text-sm">
+                <strong>FUNDRAISING AMOUNT :</strong>{" "}
+                {company.cellValuesByColumnId.fldDGtvqQLB6b5QlX}
+              </p>
+              <p className="text-sm">
                 <strong>NEXT FUNDING ROUND:</strong>{" "}
                 {company.cellValuesByColumnId.fldGCF3DwcNrUbcjP + "€"}
               </p>
